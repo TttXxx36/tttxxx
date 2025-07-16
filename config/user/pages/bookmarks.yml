@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-16T12:02:00.579Z
+# 由bookmark-processor.js生成于 2025-07-16T12:24:48.626Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -99,6 +99,10 @@ categories:
         description: ""
       - name: 如何设置xiaoya的docker
         url: https://xiaoyaliu.notion.site/xiaoya-docker-69404af849504fa5bcf9f2dd5ecaa75f#b9b9c512cf7b466ea5eb01a11b18353a
+        icon: fas fa-link
+        description: ""
+      - name: 主页 | 小雅的分类 Alist
+        url: https://xiaoya.1123875.xyz/
         icon: fas fa-link
         description: ""
   - name: Mozilla Firefox
