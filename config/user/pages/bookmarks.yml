@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-16T10:16:08.632Z
+# 由bookmark-processor.js生成于 2025-07-16T12:02:00.579Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -95,6 +95,10 @@ categories:
         description: ""
       - name: 系统状态
         url: https://xuii.1123875.xyz/321/xui/
+        icon: fas fa-link
+        description: ""
+      - name: 如何设置xiaoya的docker
+        url: https://xiaoyaliu.notion.site/xiaoya-docker-69404af849504fa5bcf9f2dd5ecaa75f#b9b9c512cf7b466ea5eb01a11b18353a
         icon: fas fa-link
         description: ""
   - name: Mozilla Firefox
@@ -865,20 +869,6 @@ categories:
         description: ""
       - name: 插件中心 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展
         url: https://simpread.ksria.cn/plugins/
-        icon: fas fa-link
-        description: ""
-  - name: saved-2025-07-16T10:14:49.211Z
-    icon: fas fa-folder
-    sites:
-      - name: 新标签页
-        url: about:newtab
-        icon: fas fa-link
-        description: ""
-  - name: saved-2025-07-12T15:02:48.041Z
-    icon: fas fa-folder
-    sites:
-      - name: GreasyFork（油叉）中文官网 - 最全浏览器油猴插件网站|镜像入口
-        url: https://greasyfork.wwwnav.com/
         icon: fas fa-link
         description: ""
   - name: saved-2025-07-12T12:42:31.363Z
