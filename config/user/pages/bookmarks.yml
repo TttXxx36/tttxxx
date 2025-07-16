@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-16T03:26:53.253Z
+# 由bookmark-processor.js生成于 2025-07-16T09:55:03.464Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -846,6 +846,13 @@ categories:
         description: ""
       - name: 三
         url: https://xn--ehq00hgtfdmt.xyz/#/knowledge
+        icon: fas fa-link
+        description: ""
+  - name: saved-2025-07-16T09:54:25.100Z
+    icon: fas fa-folder
+    sites:
+      - name: 系统状态
+        url: https://xuii.1123875.xyz/321/xui/
         icon: fas fa-link
         description: ""
   - name: saved-2025-07-12T15:02:48.041Z
