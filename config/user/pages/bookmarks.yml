@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-16T09:55:03.464Z
+# 由bookmark-processor.js生成于 2025-07-16T10:15:25.658Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -91,6 +91,10 @@ categories:
         description: ""
       - name: 用户中心 —
         url: https://69yun69.com/user
+        icon: fas fa-link
+        description: ""
+      - name: 系统状态
+        url: https://xuii.1123875.xyz/321/xui/
         icon: fas fa-link
         description: ""
   - name: Mozilla Firefox
@@ -848,11 +852,11 @@ categories:
         url: https://xn--ehq00hgtfdmt.xyz/#/knowledge
         icon: fas fa-link
         description: ""
-  - name: saved-2025-07-16T09:54:25.100Z
+  - name: saved-2025-07-16T10:14:49.211Z
     icon: fas fa-folder
     sites:
-      - name: 系统状态
-        url: https://xuii.1123875.xyz/321/xui/
+      - name: 新标签页
+        url: about:newtab
         icon: fas fa-link
         description: ""
   - name: saved-2025-07-12T15:02:48.041Z
