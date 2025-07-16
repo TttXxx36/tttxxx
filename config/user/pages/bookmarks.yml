@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-16T10:15:25.658Z
+# 由bookmark-processor.js生成于 2025-07-16T10:16:08.632Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -850,6 +850,21 @@ categories:
         description: ""
       - name: 三
         url: https://xn--ehq00hgtfdmt.xyz/#/knowledge
+        icon: fas fa-link
+        description: ""
+  - name: saved-2025-07-16T10:15:11.018Z
+    icon: fas fa-folder
+    sites:
+      - name: 选项页 - 简悦 SimpRead
+        url: moz-extension://4c6070dd-975a-49ee-aa76-a28a76b72b7c/options/options.html#plugins?install=klGUASLasg
+        icon: fas fa-link
+        description: ""
+      - name: 插件系统 - 文档中心 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展
+        url: https://simpread.pro/docs/#/%E6%8F%92%E4%BB%B6%E7%B3%BB%E7%BB%9F
+        icon: fas fa-link
+        description: ""
+      - name: 插件中心 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展
+        url: https://simpread.ksria.cn/plugins/
         icon: fas fa-link
         description: ""
   - name: saved-2025-07-16T10:14:49.211Z
