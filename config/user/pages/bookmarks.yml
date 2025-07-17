@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-17T00:40:28.102Z
+# 由bookmark-processor.js生成于 2025-07-17T00:44:45.525Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -47,6 +47,10 @@ categories:
         description: ""
       - name: 奶酪
         url: https://www.runningcheese.com/aaa
+        icon: fas fa-link
+        description: ""
+      - name: Tbox导航 | 只收录优质在线工具的导航网站
+        url: https://www.tboxn.com/
         icon: fas fa-link
         description: ""
   - name: AI
