@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-17T00:47:54.757Z
+# 由bookmark-processor.js生成于 2025-07-17T02:12:01.065Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -76,10 +76,6 @@ categories:
         url: https://metaso.cn/
         icon: fas fa-link
         description: ""
-      - name: 你好：含义、用法及文化背景 - Grok
-        url: https://grok.com/chat/1f27f626-0fe9-4866-abd4-d7597a5628c6
-        icon: fas fa-link
-        description: ""
       - name: 豆包 - 字节跳动旗下 AI 智能助手
         url: https://www.doubao.com/chat/?ref=www.tboxn.com
         icon: fas fa-link
@@ -103,6 +99,10 @@ categories:
       - name: Google Gemini
         url: https://gemini.google.com/app?ref=www.tboxn.com
         icon: fab fa-google
+        description: ""
+      - name: Grok
+        url: https://grok.com/
+        icon: fas fa-link
         description: ""
   - name: VPS
     icon: fas fa-folder
