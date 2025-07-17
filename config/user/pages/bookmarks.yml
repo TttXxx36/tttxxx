@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-17T00:27:29.371Z
+# 由bookmark-processor.js生成于 2025-07-17T00:29:29.659Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -603,10 +603,6 @@ categories:
         url: https://xs.xasa.top/
         icon: fas fa-link
         description: ""
-      - name: SiliconCloud
-        url: https://cloud.siliconflow.cn/sft-d1p0ls4p6kbc73d6lmeg/models
-        icon: fas fa-link
-        description: ""
       - name: CloudPanel
         url: https://pt.kktwo.me/#/dashboard
         icon: fas fa-link
@@ -615,8 +611,23 @@ categories:
         url: https://www.reddit.com/r/raycastapp/comments/1lk87va/raycast_for_windows_beta_is_rolling_out/?sort=new
         icon: fab fa-reddit
         description: ""
+  - name: AI
+    icon: fas fa-folder
+    sites:
+      - name: DeepSeek 开放平台
+        url: https://platform.deepseek.com/usage
+        icon: fas fa-link
+        description: ""
+      - name: SiliconCloud
+        url: https://cloud.siliconflow.cn/sft-d1p0ls4p6kbc73d6lmeg/models
+        icon: fas fa-link
+        description: ""
       - name: 你好：含义、用法及文化背景 - Grok
         url: https://grok.com/chat/1f27f626-0fe9-4866-abd4-d7597a5628c6
+        icon: fas fa-link
+        description: ""
+      - name: Kimi - 更强大的 AI 助手
+        url: https://www.kimi.com/
         icon: fas fa-link
         description: ""
   - name: 书签工具栏
@@ -799,10 +810,6 @@ categories:
         description: ""
       - name: 三
         url: https://xn--ehq00hgtfdmt.xyz/#/knowledge
-        icon: fas fa-link
-        description: ""
-      - name: DeepSeek 开放平台
-        url: https://platform.deepseek.com/usage
         icon: fas fa-link
         description: ""
   - name: 软件
