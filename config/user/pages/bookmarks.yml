@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-17T00:31:10.920Z
+# 由bookmark-processor.js生成于 2025-07-17T00:32:09.357Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -640,6 +640,10 @@ categories:
         description: ""
       - name: 豆包 - 字节跳动旗下 AI 智能助手
         url: https://www.doubao.com/chat/?ref=www.tboxn.com
+        icon: fas fa-link
+        description: ""
+      - name: Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。
+        url: https://zh.zlib.by/
         icon: fas fa-link
         description: ""
   - name: 书签工具栏
