@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-17T00:39:51.940Z
+# 由bookmark-processor.js生成于 2025-07-17T00:40:28.102Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -91,6 +91,10 @@ categories:
       - name: Claude
         url: https://claude.ai/new
         icon: fas fa-link
+        description: ""
+      - name: Google Gemini
+        url: https://gemini.google.com/app?ref=www.tboxn.com
+        icon: fab fa-google
         description: ""
   - name: VPS
     icon: fas fa-folder
