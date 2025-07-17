@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-17T00:34:47.051Z
+# 由bookmark-processor.js生成于 2025-07-17T00:39:51.940Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -47,6 +47,49 @@ categories:
         description: ""
       - name: 奶酪
         url: https://www.runningcheese.com/aaa
+        icon: fas fa-link
+        description: ""
+  - name: AI
+    icon: fas fa-folder
+    sites:
+      - name: DeepSeek - 探索未至之境
+        url: https://chat.deepseek.com/
+        icon: fas fa-link
+        description: ""
+      - name: Kimi - 更强大的 AI 助手
+        url: https://www.kimi.com/
+        icon: fas fa-link
+        description: ""
+      - name: 智谱清言
+        url: https://chatglm.cn/main/alltoolsdetail?ref=www.tboxn.com&amp;lang=zh
+        icon: fas fa-link
+        description: ""
+      - name: 秘塔AI搜索
+        url: https://metaso.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 你好：含义、用法及文化背景 - Grok
+        url: https://grok.com/chat/1f27f626-0fe9-4866-abd4-d7597a5628c6
+        icon: fas fa-link
+        description: ""
+      - name: 豆包 - 字节跳动旗下 AI 智能助手
+        url: https://www.doubao.com/chat/?ref=www.tboxn.com
+        icon: fas fa-link
+        description: ""
+      - name: SiliconCloud
+        url: https://cloud.siliconflow.cn/sft-d1p0ls4p6kbc73d6lmeg/models
+        icon: fas fa-link
+        description: ""
+      - name: DeepSeek 开放平台
+        url: https://platform.deepseek.com/usage
+        icon: fas fa-link
+        description: ""
+      - name: Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。
+        url: https://zh.zlib.by/
+        icon: fas fa-link
+        description: ""
+      - name: Claude
+        url: https://claude.ai/new
         icon: fas fa-link
         description: ""
   - name: VPS
@@ -610,45 +653,6 @@ categories:
       - name: Raycast for Windows Beta 版即将推出：r/raycastapp --- Raycast for Windows Beta 版即将推出：r/raycastapp
         url: https://www.reddit.com/r/raycastapp/comments/1lk87va/raycast_for_windows_beta_is_rolling_out/?sort=new
         icon: fab fa-reddit
-        description: ""
-  - name: AI
-    icon: fas fa-folder
-    sites:
-      - name: DeepSeek 开放平台
-        url: https://platform.deepseek.com/usage
-        icon: fas fa-link
-        description: ""
-      - name: SiliconCloud
-        url: https://cloud.siliconflow.cn/sft-d1p0ls4p6kbc73d6lmeg/models
-        icon: fas fa-link
-        description: ""
-      - name: 你好：含义、用法及文化背景 - Grok
-        url: https://grok.com/chat/1f27f626-0fe9-4866-abd4-d7597a5628c6
-        icon: fas fa-link
-        description: ""
-      - name: Kimi - 更强大的 AI 助手
-        url: https://www.kimi.com/
-        icon: fas fa-link
-        description: ""
-      - name: DeepSeek - 探索未至之境
-        url: https://chat.deepseek.com/
-        icon: fas fa-link
-        description: ""
-      - name: 智谱清言
-        url: https://chatglm.cn/main/alltoolsdetail?ref=www.tboxn.com&amp;lang=zh
-        icon: fas fa-link
-        description: ""
-      - name: 豆包 - 字节跳动旗下 AI 智能助手
-        url: https://www.doubao.com/chat/?ref=www.tboxn.com
-        icon: fas fa-link
-        description: ""
-      - name: Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。
-        url: https://zh.zlib.by/
-        icon: fas fa-link
-        description: ""
-      - name: 秘塔AI搜索
-        url: https://metaso.cn/
-        icon: fas fa-link
         description: ""
   - name: 书签工具栏
     icon: fas fa-folder
