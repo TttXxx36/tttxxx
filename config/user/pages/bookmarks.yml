@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-17T00:47:33.379Z
+# 由bookmark-processor.js生成于 2025-07-17T00:47:54.757Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -51,6 +51,10 @@ categories:
         description: ""
       - name: Tbox导航 | 只收录优质在线工具的导航网站
         url: https://www.tboxn.com/
+        icon: fas fa-link
+        description: ""
+      - name: 吾爱破解 - 52pojie.cn
+        url: https://www.52pojie.cn/?ref=www.tboxn.com
         icon: fas fa-link
         description: ""
   - name: AI
