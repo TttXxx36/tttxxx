@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-18T14:40:24.530Z
+# 由bookmark-processor.js生成于 2025-07-18T14:41:27.851Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -676,10 +676,6 @@ categories:
         description: ""
       - name: 主题 • 千禧年
         url: https://steambrew.app/themes
-        icon: fab fa-steam
-        description: ""
-      - name: 千禧年 • 蒸汽自制啤酒。
-        url: https://steambrew.app/
         icon: fab fa-steam
         description: ""
   - name: 书签工具栏
