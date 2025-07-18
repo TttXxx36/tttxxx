@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-18T14:41:27.851Z
+# 由bookmark-processor.js生成于 2025-07-18T14:42:41.876Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -670,12 +670,19 @@ categories:
         url: https://www.reddit.com/r/raycastapp/comments/1lk87va/raycast_for_windows_beta_is_rolling_out/?sort=new
         icon: fab fa-reddit
         description: ""
-      - name: Uninstalling | Steam Homebrew
-        url: https://docs.steambrew.app/users/uninstalling
+  - name: Steam
+    icon: fas fa-folder
+    sites:
+      - name: 欢迎来到 Steam
+        url: https://store.steampowered.com/
         icon: fab fa-steam
         description: ""
       - name: 主题 • 千禧年
         url: https://steambrew.app/themes
+        icon: fab fa-steam
+        description: ""
+      - name: Uninstalling | Steam Homebrew
+        url: https://docs.steambrew.app/users/uninstalling
         icon: fab fa-steam
         description: ""
   - name: 书签工具栏
