@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-17T02:12:01.065Z
+# 由bookmark-processor.js生成于 2025-07-18T04:37:46.131Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -76,6 +76,18 @@ categories:
         url: https://metaso.cn/
         icon: fas fa-link
         description: ""
+      - name: Google Gemini
+        url: https://gemini.google.com/app?ref=www.tboxn.com
+        icon: fab fa-google
+        description: ""
+      - name: Claude
+        url: https://claude.ai/new
+        icon: fas fa-link
+        description: ""
+      - name: Grok
+        url: https://grok.com/
+        icon: fas fa-link
+        description: ""
       - name: 豆包 - 字节跳动旗下 AI 智能助手
         url: https://www.doubao.com/chat/?ref=www.tboxn.com
         icon: fas fa-link
@@ -90,18 +102,6 @@ categories:
         description: ""
       - name: Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。
         url: https://zh.zlib.by/
-        icon: fas fa-link
-        description: ""
-      - name: Claude
-        url: https://claude.ai/new
-        icon: fas fa-link
-        description: ""
-      - name: Google Gemini
-        url: https://gemini.google.com/app?ref=www.tboxn.com
-        icon: fab fa-google
-        description: ""
-      - name: Grok
-        url: https://grok.com/
         icon: fas fa-link
         description: ""
   - name: VPS
@@ -646,7 +646,7 @@ categories:
         url: http://neumathe.cn/#/index
         icon: fas fa-link
         description: ""
-      - name: Ah, Love! Season 2 bundle ürününü satın al | Xbox
+      - name: Xbox
         url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
         icon: fas fa-link
         description: ""
@@ -669,6 +669,10 @@ categories:
       - name: Raycast for Windows Beta 版即将推出：r/raycastapp --- Raycast for Windows Beta 版即将推出：r/raycastapp
         url: https://www.reddit.com/r/raycastapp/comments/1lk87va/raycast_for_windows_beta_is_rolling_out/?sort=new
         icon: fab fa-reddit
+        description: ""
+      - name: Uninstalling | Steam Homebrew
+        url: https://docs.steambrew.app/users/uninstalling
+        icon: fab fa-steam
         description: ""
   - name: 书签工具栏
     icon: fas fa-folder
