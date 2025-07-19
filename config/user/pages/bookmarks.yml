@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T01:36:11.899Z
+# 由bookmark-processor.js生成于 2025-07-19T01:46:19.470Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -250,6 +250,10 @@ categories:
         description: ""
       - name: 抖音
         url: https://www.douyin.com/jingxuan
+        icon: fas fa-link
+        description: ""
+      - name: Moonlight进阶教程@2025/05/15
+        url: https://flowus.cn/lecheng/share/3a591f93-f48b-4164-9028-bade2c35ef58
         icon: fas fa-link
         description: ""
   - name: 毕业
