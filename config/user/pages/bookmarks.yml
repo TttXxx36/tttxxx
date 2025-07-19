@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T04:22:14.024Z
+# 由bookmark-processor.js生成于 2025-07-19T04:35:05.215Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -237,6 +237,244 @@ categories:
         url: about:preferences
         icon: fas fa-link
         description: ""
+  - name: Study
+    icon: fas fa-folder
+    sites:
+      - name: 中国大学MOOC(慕课)_国家精品课程在线学习平台
+        url: https://www.icourse163.org/
+        icon: fas fa-link
+        description: ""
+      - name: Download Python | Python.org
+        url: https://www.python.org/downloads/
+        icon: fab fa-python
+        description: ""
+      - name: 大小写转换_牛客题霸_牛客网
+        url: https://www.nowcoder.com/practice/4e089ee8966a4ed4b306f64e68d45264?tpId=107&amp;tags=&amp;title=&amp;difficulty=0&amp;judgeStatus=0&amp;rp=1
+        icon: fas fa-link
+        description: ""
+      - name: 打字课程 - 学习打字并提高打字速度免费 - Typing.com
+        url: https://www.typing.com/student/lessons
+        icon: fas fa-link
+        description: ""
+      - name: Typing Practice
+        url: https://www.keybr.com/
+        icon: fas fa-link
+        description: ""
+      - name: LintCode 炼码
+        url: https://www.lintcode.com/
+        icon: fas fa-link
+        description: ""
+      - name: 新手必刷编程50题 - LintCode
+        url: https://www.lintcode.com/collection/192/
+        icon: fas fa-link
+        description: ""
+      - name: Java
+        url: https://duhouan.github.io/Java/#/?id=git
+        icon: fab fa-github
+        description: ""
+      - name: 图解 Java 数据结构和算法 | 数据结构与算法 系列教程（笔记）
+        url: https://zq99299.github.io/dsalg-tutorial/dsalg-java-hsp/
+        icon: fab fa-java
+        description: ""
+      - name: JavaGuide（Java学习&amp;&amp;面试指南） | JavaGuide
+        url: https://javaguide.cn/home.html#%E4%BB%8B%E7%BB%8D
+        icon: fab fa-java
+        description: ""
+      - name: Alibaba Java 技术图谱-阿里云开发者社区
+        url: https://developer.aliyun.com/graph/java
+        icon: fab fa-java
+        description: ""
+      - name: 编程语法练习-Java初级语法_牛客网
+        url: https://www.nowcoder.com/ta/primary-grammar-java
+        icon: fab fa-java
+        description: ""
+      - name: 腾讯会议
+        url: https://meeting.tencent.com/user-center/personal-information
+        icon: fas fa-link
+        description: ""
+      - name: LintCode 炼码
+        url: https://www.lintcode.com/learn?dimension_id=164&amp;level_id=165
+        icon: fas fa-link
+        description: ""
+      - name: "[理学]大学物理活页作业马文蔚主编答案.pdf - 豆丁网"
+        url: https://www.docin.com/p-1947827965.html
+        icon: fas fa-link
+        description: ""
+      - name: VScode配置C/C++环境 - laomaocode - 博客园
+        url: https://www.cnblogs.com/laomaocode/p/15097413.html#%E5%AE%89%E8%A3%85cc%E6%8F%92%E4%BB%B6
+        icon: fas fa-link
+        description: ""
+      - name: "labuladong 的算法小抄 :: labuladong的算法小抄"
+        url: https://labuladong.github.io/algo/
+        icon: fab fa-github
+        description: ""
+      - name: Task List —life | Board View
+        url: https://www.notion.so/e206adfe7e474ef1b9a1c0c436ba048c?v=559b030d207f4b28bc8470a7c33b65c0
+        icon: fas fa-link
+        description: ""
+      - name: 牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+        url: https://www.nowcoder.com/exam/oj/ta?tpId=107
+        icon: fas fa-link
+        description: ""
+      - name: 工作台 · 语雀
+        url: https://www.yuque.com/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: (1条消息) 【维生素C语言】第二章 - 分支和循环（重制版）_#define _CRT_SECURE_NO_WARNINGS 1-CSDN博客
+        url: https://blog.csdn.net/weixin_50502862/article/details/120457029
+        icon: fas fa-link
+        description: ""
+      - name: C语言 - C语言技术,学习,经验文章 - 掘金
+        url: https://juejin.cn/tag/C%E8%AF%AD%E8%A8%80
+        icon: fas fa-link
+        description: ""
+      - name: 电子书基础/免费编程书籍：免费编程书籍
+        url: https://github.com/EbookFoundation/free-programming-books
+        icon: fab fa-github
+        description: ""
+      - name: CyC2018/CS-Notes： 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+        url: https://github.com/CyC2018/CS-Notes
+        icon: fab fa-github
+        description: ""
+      - name: 程序员技术练级攻略 | 酷 壳 - CoolShell
+        url: https://coolshell.cn/articles/4990.html#%E5%90%AF%E8%92%99%E5%85%A5%E9%97%A8
+        icon: fas fa-link
+        description: ""
+      - name: "Ewenwan/ShiYanLou: 学习C &amp; C++ &amp; python&amp;汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机 linux 面试"
+        url: https://github.com/Ewenwan/ShiYanLou
+        icon: fab fa-github
+        description: ""
+      - name: C语言从入门到精通（鹏哥带你C语言从入门到精通，谭浩强C语言教程C语言程序设计C语言修仙C语言考研计算机二级专升本C语言期末突软考二级C语言考研C语言C语言）_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1U44y1y7xN?p=59
+        icon: fas fa-link
+        description: ""
+      - name: win7升级win10最简单的方法 - 我的生活记录
+        url: http://alienchen.cn/23.html
+        icon: fas fa-link
+        description: ""
+      - name: 代码随想录
+        url: https://programmercarl.com/%E9%93%BE%E8%A1%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html#%E5%88%A0%E9%99%A4%E8%8A%82%E7%82%B9
+        icon: fas fa-link
+        description: ""
+      - name: 王道计算机考研 计算机组成原理_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1BE411D7ii?p=5
+        icon: fas fa-link
+        description: ""
+      - name: Windows10安装ubuntu16.04双系统教程 - 不妨不妨，来日方长 - 博客园
+        url: https://www.cnblogs.com/masbay/p/10844857.html
+        icon: fas fa-link
+        description: ""
+      - name: LeetCode &amp; Coding Interview Guide - Doocs Open Source Organization
+        url: https://doocs.gitee.io/leetcode/#/
+        icon: fas fa-link
+        description: ""
+      - name: Study plan – JetBrains Academy — Learn programming by building your own apps
+        url: https://hyperskill.org/study-plan
+        icon: fas fa-link
+        description: ""
+      - name: 图解算法数据结构 - LeetBook - 力扣（LeetCode）全球极客挚爱的技术成长平台
+        url: https://leetcode-cn.com/leetbook/read/illustration-of-algorithm/55187i/
+        icon: fas fa-link
+        description: ""
+      - name: "hosts: GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。"
+        url: https://gitee.com/ineo6/hosts
+        icon: fas fa-link
+        description: ""
+      - name: UOS/DEEPIN安装nvidia最新闭源驱动的教程（方法简单成功率很高）－论坛－深度科技
+        url: https://bbs.deepin.org/post/232923
+        icon: fas fa-link
+        description: ""
+  - name: NEU
+    icon: fas fa-folder
+    sites:
+      - name: 东北大学邮件系统
+        url: https://stu.neu.edu.cn/coremail/XJS/index.jsp?sid=BASxODHHlTGNmIbednHHefgqRtPSNSeF#mail.welcome
+        icon: fas fa-link
+        description: ""
+      - name: 资源访问控制系统门户
+        url: https://webvpn.neu.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 个人中心_应届生求职网
+        url: https://q.yingjiesheng.com/pc/personal?tabId=2&amp;partner=wspcsucceedb1
+        icon: fas fa-link
+        description: ""
+      - name: 论文
+        url: https://co2.cnki.net/Role.html?dp=neu&amp;r=1743934950253
+        icon: fas fa-link
+        description: ""
+      - name: 我的申请
+        url: https://campus.boe.com/Portal/Apply/Index
+        icon: fas fa-link
+        description: ""
+      - name: 我的申请
+        url: https://hr.cnnc.com.cn/Portal/Apply/Index
+        icon: fas fa-link
+        description: ""
+      - name: TCL招聘
+        url: https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/pb/account.html#/myDeliver
+        icon: fas fa-link
+        description: ""
+      - name: 中广核招聘官网
+        url: https://cgn.hotjob.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 智慧东大--信息门户
+        url: https://portal.neu.edu.cn/tp_up/view;tp_up=k-gpZFc5vBLXBXP5o-Qsf6Mx0tOJnJHCflZxzQz3qIdRJLJ0lE4l!-275960779?m=up#act=portal/viewhome
+        icon: fas fa-link
+        description: ""
+      - name: 文献—中国知网
+        url: https://webvpn.neu.edu.cn/https/77726476706e69737468656265737421fbf952d2243e635930068cb8/kns/brief/result.aspx?dbprefix=SCDB&amp;crossDbcodes=CJFQ%2CCDFD%2CCMFD%2CCPFD%2CIPFD%2CCCND%2CCISD%2CSNAD%2CBDZK%2CCCJD%2CCJRF%2CCJFN
+        icon: fas fa-link
+        description: ""
+      - name: neucsecg.neu.edu.cn
+        url: http://neucsecg.neu.edu.cn/indexcs/simple.jsp?loginErr=0
+        icon: fas fa-link
+        description: ""
+      - name: 欢迎，徐桐 – Blackboard Learn
+        url: https://bb.neu.edu.cn/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_6_1
+        icon: fas fa-link
+        description: ""
+      - name: 预约系统
+        url: http://mathe.neu.edu.cn:8080/main/exercise
+        icon: fas fa-link
+        description: ""
+      - name: neumathe | 首页
+        url: http://neumathe.cn/#/index
+        icon: fas fa-link
+        description: ""
+      - name: 智
+        url: https://portal.neu.edu.cn/desktop/#/microapp
+        icon: fas fa-link
+        description: ""
+      - name: IP
+        url: http://ipgw.neu.edu.cn/srun_portal_success?ac_id=1&amp;theme=pro
+        icon: fas fa-link
+        description: ""
+      - name: 就业
+        url: http://job.neu.edu.cn/melectronic/mstudent/online
+        icon: fas fa-link
+        description: ""
+      - name: IP控制网关
+        url: http://ipgw.neu.edu.cn/srun_portal_success_mobile?ac_id=16
+        icon: fas fa-link
+        description: ""
+      - name: IP控制网关
+        url: https://ipgw.neu.edu.cn/srun_portal_pc?ac_id=16&amp;theme=pro
+        icon: fas fa-link
+        description: ""
+      - name: ""
+        url: http://hdtv.neu6.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 雨课堂
+        url: https://www.yuketang.cn/v2/web/index
+        icon: fas fa-link
+        description: ""
+      - name: 环保安全工程师（2025校招）(J11811)-中芯国际集成电路制造有限公司
+        url: https://smics.m.zhiye.com/#/jobdetail?id=390683776
+        icon: fas fa-link
+        description: ""
   - name: Vedio
     icon: fas fa-folder
     sites:
@@ -260,43 +498,27 @@ categories:
         url: https://www.asmrgay.org/
         icon: fas fa-link
         description: ""
-  - name: 毕业
+      - name: ""
+        url: https://www.asmrgay.com/
+        icon: fas fa-link
+        description: ""
+      - name: OmoFun动漫官网 - 海量动漫资源在线看|网页版|电脑版入口
+        url: https://omofun.wwwnav.com/
+        icon: fas fa-link
+        description: ""
+  - name: Pic
     icon: fas fa-folder
     sites:
-      - name: 所有崩溃信息
-        url: about:crashes
+      - name: Top Wallpapers - wallhaven.cc
+        url: https://wallhaven.cc/toplist
         icon: fas fa-link
         description: ""
-      - name: 智慧东大--信息门户
-        url: https://portal.neu.edu.cn/tp_up/view;tp_up=k-gpZFc5vBLXBXP5o-Qsf6Mx0tOJnJHCflZxzQz3qIdRJLJ0lE4l!-275960779?m=up#act=portal/viewhome
+      - name: pixiv
+        url: https://www.pixiv.net/
         icon: fas fa-link
         description: ""
-      - name: 个人中心_应届生求职网
-        url: https://q.yingjiesheng.com/pc/personal?tabId=2&amp;partner=wspcsucceedb1
-        icon: fas fa-link
-        description: ""
-      - name: 我的申请
-        url: https://campus.boe.com/Portal/Apply/Index
-        icon: fas fa-link
-        description: ""
-      - name: 我的申请
-        url: https://hr.cnnc.com.cn/Portal/Apply/Index
-        icon: fas fa-link
-        description: ""
-      - name: TCL招聘
-        url: https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/pb/account.html#/myDeliver
-        icon: fas fa-link
-        description: ""
-      - name: 中广核招聘官网
-        url: https://cgn.hotjob.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 论文
-        url: https://co2.cnki.net/Role.html?dp=neu&amp;r=1743934950253
-        icon: fas fa-link
-        description: ""
-      - name: 就
-        url: http://job.neu.edu.cn/melectronic/mstudent/online
+      - name: 《秘密教學》別名:秘密教学,祕密教學-第1話 秘密教学 __ 秘密の授業|漫畫免費在線觀看-肉漫屋
+        url: https://rouman5.com/books/63b65185-f798-4c8f-a0b0-8811615908fd/0
         icon: fas fa-link
         description: ""
   - name: 工具
@@ -398,6 +620,10 @@ categories:
         url: https://www.ilovepdf.com/zh-cn?ref=www.tboxn.com
         icon: fas fa-link
         description: ""
+      - name: 原版软件
+        url: https://next.itellyou.cn/Original/Index?id=7ab5f0cb-7607-4bbe-9e88-50716dc43de6#cbp=Product?ID=f905b2d9-11e7-4ee3-8b52-407a8befe8d1
+        icon: fas fa-link
+        description: ""
   - name: 收藏
     icon: fas fa-folder
     sites:
@@ -409,44 +635,20 @@ categories:
         url: http://202.118.30.191:8022/?tdsourcetag=s_pctim_aiomsg
         icon: fas fa-link
         description: ""
-      - name: 雨课堂
-        url: https://www.yuketang.cn/v2/web/index
-        icon: fas fa-link
-        description: ""
-      - name: 文献—中国知网
-        url: https://webvpn.neu.edu.cn/https/77726476706e69737468656265737421fbf952d2243e635930068cb8/kns/brief/result.aspx?dbprefix=SCDB&amp;crossDbcodes=CJFQ%2CCDFD%2CCMFD%2CCPFD%2CIPFD%2CCCND%2CCISD%2CSNAD%2CBDZK%2CCCJD%2CCJRF%2CCJFN
-        icon: fas fa-link
-        description: ""
       - name: 2022 免费申请永久正版 Office E5 开发者订阅+ 5T 不限速网盘教程
         url: https://www.mspace.cc/archives/479
-        icon: fas fa-link
-        description: ""
-      - name: E5续订
-        url: https://e5.qyi.io/user/baseSetting
         icon: fas fa-link
         description: ""
       - name: Active users - Microsoft 365 admin center
         url: https://admin.microsoft.com/?auth_upn=tttxxx%403ks44k.onmicrosoft.com&amp;source=applauncher#/users
         icon: fab fa-microsoft
         description: ""
-      - name: neucsecg.neu.edu.cn
-        url: http://neucsecg.neu.edu.cn/indexcs/simple.jsp?loginErr=0
-        icon: fas fa-link
-        description: ""
-      - name: 欢迎，徐桐 – Blackboard Learn
-        url: https://bb.neu.edu.cn/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_6_1
-        icon: fas fa-link
-        description: ""
-      - name: 资源访问控制系统门户
-        url: https://webvpn.neu.edu.cn/
+      - name: E5续订
+        url: https://e5.qyi.io/user/baseSetting
         icon: fas fa-link
         description: ""
       - name: 批改网
         url: http://pigai.org/index.php?c=write&amp;f2=
-        icon: fas fa-link
-        description: ""
-      - name: 预约系统
-        url: http://mathe.neu.edu.cn:8080/main/exercise
         icon: fas fa-link
         description: ""
       - name: Deepin初上手攻略 | Documentation
@@ -504,185 +706,6 @@ categories:
   - name: "1"
     icon: fas fa-folder
     sites:
-      - name: 极下解析
-        url: https://jixia.icu/#/jxdo
-        icon: fas fa-link
-        description: ""
-      - name: 百度网盘
-        url: https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all
-        icon: fas fa-link
-        description: ""
-      - name: VScode配置C/C++环境 - laomaocode - 博客园
-        url: https://www.cnblogs.com/laomaocode/p/15097413.html#%E5%AE%89%E8%A3%85cc%E6%8F%92%E4%BB%B6
-        icon: fas fa-link
-        description: ""
-      - name: "labuladong 的算法小抄 :: labuladong的算法小抄"
-        url: https://labuladong.github.io/algo/
-        icon: fab fa-github
-        description: ""
-      - name: Task List —life | Board View
-        url: https://www.notion.so/e206adfe7e474ef1b9a1c0c436ba048c?v=559b030d207f4b28bc8470a7c33b65c0
-        icon: fas fa-link
-        description: ""
-      - name: 牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
-        url: https://www.nowcoder.com/exam/oj/ta?tpId=107
-        icon: fas fa-link
-        description: ""
-      - name: 工作台 · 语雀
-        url: https://www.yuque.com/dashboard
-        icon: fas fa-link
-        description: ""
-      - name: (1条消息) 【维生素C语言】第二章 - 分支和循环（重制版）_#define _CRT_SECURE_NO_WARNINGS 1-CSDN博客
-        url: https://blog.csdn.net/weixin_50502862/article/details/120457029
-        icon: fas fa-link
-        description: ""
-      - name: C语言 - C语言技术,学习,经验文章 - 掘金
-        url: https://juejin.cn/tag/C%E8%AF%AD%E8%A8%80
-        icon: fas fa-link
-        description: ""
-      - name: 电子书基础/免费编程书籍：免费编程书籍
-        url: https://github.com/EbookFoundation/free-programming-books
-        icon: fab fa-github
-        description: ""
-      - name: CyC2018/CS-Notes： 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-        url: https://github.com/CyC2018/CS-Notes
-        icon: fab fa-github
-        description: ""
-      - name: 微信读书-正版书籍小说免费阅读
-        url: https://weread.qq.com/web/shelf
-        icon: fas fa-link
-        description: ""
-      - name: 程序员技术练级攻略 | 酷 壳 - CoolShell
-        url: https://coolshell.cn/articles/4990.html#%E5%90%AF%E8%92%99%E5%85%A5%E9%97%A8
-        icon: fas fa-link
-        description: ""
-      - name: "Ewenwan/ShiYanLou: 学习C &amp; C++ &amp; python&amp;汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机 linux 面试"
-        url: https://github.com/Ewenwan/ShiYanLou
-        icon: fab fa-github
-        description: ""
-      - name: C语言从入门到精通（鹏哥带你C语言从入门到精通，谭浩强C语言教程C语言程序设计C语言修仙C语言考研计算机二级专升本C语言期末突软考二级C语言考研C语言C语言）_哔哩哔哩_bilibili
-        url: https://www.bilibili.com/video/BV1U44y1y7xN?p=59
-        icon: fas fa-link
-        description: ""
-      - name: win7升级win10最简单的方法 - 我的生活记录
-        url: http://alienchen.cn/23.html
-        icon: fas fa-link
-        description: ""
-      - name: 代码随想录
-        url: https://programmercarl.com/%E9%93%BE%E8%A1%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html#%E5%88%A0%E9%99%A4%E8%8A%82%E7%82%B9
-        icon: fas fa-link
-        description: ""
-      - name: 王道计算机考研 计算机组成原理_哔哩哔哩_bilibili
-        url: https://www.bilibili.com/video/BV1BE411D7ii?p=5
-        icon: fas fa-link
-        description: ""
-      - name: Windows10安装ubuntu16.04双系统教程 - 不妨不妨，来日方长 - 博客园
-        url: https://www.cnblogs.com/masbay/p/10844857.html
-        icon: fas fa-link
-        description: ""
-      - name: LeetCode &amp; Coding Interview Guide - Doocs Open Source Organization
-        url: https://doocs.gitee.io/leetcode/#/
-        icon: fas fa-link
-        description: ""
-      - name: Study plan – JetBrains Academy — Learn programming by building your own apps
-        url: https://hyperskill.org/study-plan
-        icon: fas fa-link
-        description: ""
-      - name: VSCode 1.63.2 绿色版 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
-        url: https://www.52pojie.cn/thread-1577047-1-1.html
-        icon: fas fa-link
-        description: ""
-      - name: 123云盘_只只
-        url: https://www.123pan.com/s/wEeA-bnMmH
-        icon: fas fa-link
-        description: ""
-      - name: "[理学]大学物理活页作业马文蔚主编答案.pdf - 豆丁网"
-        url: https://www.docin.com/p-1947827965.html
-        icon: fas fa-link
-        description: ""
-      - name: 无与伦比的Jay同学
-        url: https://jav.iuo.ink/#category-21
-        icon: fas fa-link
-        description: ""
-      - name: 原版软件
-        url: https://next.itellyou.cn/Original/Index?id=7ab5f0cb-7607-4bbe-9e88-50716dc43de6#cbp=Product?ID=f905b2d9-11e7-4ee3-8b52-407a8befe8d1
-        icon: fas fa-link
-        description: ""
-      - name: 图解算法数据结构 - LeetBook - 力扣（LeetCode）全球极客挚爱的技术成长平台
-        url: https://leetcode-cn.com/leetbook/read/illustration-of-algorithm/55187i/
-        icon: fas fa-link
-        description: ""
-      - name: "hosts: GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。"
-        url: https://gitee.com/ineo6/hosts
-        icon: fas fa-link
-        description: ""
-      - name: UOS/DEEPIN安装nvidia最新闭源驱动的教程（方法简单成功率很高）－论坛－深度科技
-        url: https://bbs.deepin.org/post/232923
-        icon: fas fa-link
-        description: ""
-  - name: Study
-    icon: fas fa-folder
-    sites:
-      - name: neumathe | 首页
-        url: http://neumathe.cn/#/index
-        icon: fas fa-link
-        description: ""
-      - name: 中国大学MOOC(慕课)_国家精品课程在线学习平台
-        url: https://www.icourse163.org/
-        icon: fas fa-link
-        description: ""
-      - name: Download Python | Python.org
-        url: https://www.python.org/downloads/
-        icon: fab fa-python
-        description: ""
-      - name: 大小写转换_牛客题霸_牛客网
-        url: https://www.nowcoder.com/practice/4e089ee8966a4ed4b306f64e68d45264?tpId=107&amp;tags=&amp;title=&amp;difficulty=0&amp;judgeStatus=0&amp;rp=1
-        icon: fas fa-link
-        description: ""
-      - name: 打字课程 - 学习打字并提高打字速度免费 - Typing.com
-        url: https://www.typing.com/student/lessons
-        icon: fas fa-link
-        description: ""
-      - name: Typing Practice
-        url: https://www.keybr.com/
-        icon: fas fa-link
-        description: ""
-      - name: LintCode 炼码
-        url: https://www.lintcode.com/
-        icon: fas fa-link
-        description: ""
-      - name: 新手必刷编程50题 - LintCode
-        url: https://www.lintcode.com/collection/192/
-        icon: fas fa-link
-        description: ""
-      - name: Java
-        url: https://duhouan.github.io/Java/#/?id=git
-        icon: fab fa-github
-        description: ""
-      - name: 图解 Java 数据结构和算法 | 数据结构与算法 系列教程（笔记）
-        url: https://zq99299.github.io/dsalg-tutorial/dsalg-java-hsp/
-        icon: fab fa-java
-        description: ""
-      - name: JavaGuide（Java学习&amp;&amp;面试指南） | JavaGuide
-        url: https://javaguide.cn/home.html#%E4%BB%8B%E7%BB%8D
-        icon: fab fa-java
-        description: ""
-      - name: Alibaba Java 技术图谱-阿里云开发者社区
-        url: https://developer.aliyun.com/graph/java
-        icon: fab fa-java
-        description: ""
-      - name: 编程语法练习-Java初级语法_牛客网
-        url: https://www.nowcoder.com/ta/primary-grammar-java
-        icon: fab fa-java
-        description: ""
-      - name: 腾讯会议
-        url: https://meeting.tencent.com/user-center/personal-information
-        icon: fas fa-link
-        description: ""
-      - name: LintCode 炼码
-        url: https://www.lintcode.com/learn?dimension_id=164&amp;level_id=165
-        icon: fas fa-link
-        description: ""
       - name: Xbox
         url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
         icon: fas fa-link
@@ -711,17 +734,6 @@ categories:
         url: https://github.com/lyswhut/lx-music-desktop/releases
         icon: fab fa-github
         description: ""
-  - name: Pic
-    icon: fas fa-folder
-    sites:
-      - name: pixiv
-        url: https://www.pixiv.net/
-        icon: fas fa-link
-        description: ""
-      - name: Top Wallpapers - wallhaven.cc
-        url: https://wallhaven.cc/toplist
-        icon: fas fa-link
-        description: ""
   - name: 书签工具栏
     icon: fas fa-folder
     sites:
@@ -729,16 +741,8 @@ categories:
         url: https://myaccount.google.com/?utm_source=sign_in_no_continue&amp;pli=1&amp;nlr=1
         icon: fab fa-google
         description: ""
-      - name: 智
-        url: https://portal.neu.edu.cn/desktop/#/microapp
-        icon: fas fa-link
-        description: ""
       - name: 测
         url: http://test.ustc.edu.cn/
-        icon: fas fa-link
-        description: ""
-      - name: IP
-        url: http://ipgw.neu.edu.cn/srun_portal_success?ac_id=1&amp;theme=pro
         icon: fas fa-link
         description: ""
       - name: 一
@@ -824,10 +828,6 @@ categories:
   - name: 其他书签
     icon: fas fa-folder
     sites:
-      - name: 手把手教你白嫖微软Azure学生免费服务器及配置教程（IPv4+IPv6）_azure ipv6-CSDN博客
-        url: https://blog.csdn.net/qq_33177599/article/details/132333921
-        icon: fas fa-link
-        description: ""
       - name: flowus.cn/lecheng/share/9d92389d-1572-44ee-9acd-2b15662f1dc5#1ec740a3-a162-407e-96ba-a42c7076cf93
         url: https://flowus.cn/lecheng/share/9d92389d-1572-44ee-9acd-2b15662f1dc5#1ec740a3-a162-407e-96ba-a42c7076cf93
         icon: fas fa-link
@@ -860,10 +860,6 @@ categories:
         url: http://tplogin.cn/
         icon: fas fa-link
         description: ""
-      - name: 尚硅谷Java学科全套教程（总207.77GB）_免费高速下载|百度网盘-分享无限制
-        url: https://pan.baidu.com/s/1Kg7UUpO3wwALX6x28cWA7A#list/path=%2F
-        icon: fas fa-link
-        description: ""
       - name: 极下防失联
         url: https://jixia.ink/
         icon: fas fa-link
@@ -886,6 +882,10 @@ categories:
         description: ""
       - name: 三
         url: https://xn--ehq00hgtfdmt.xyz/#/knowledge
+        icon: fas fa-link
+        description: ""
+      - name: 手把手教你白嫖微软Azure学生免费服务器及配置教程（IPv4+IPv6）_azure ipv6-CSDN博客
+        url: https://blog.csdn.net/qq_33177599/article/details/132333921
         icon: fas fa-link
         description: ""
   - name: 软件
@@ -915,12 +915,12 @@ categories:
         url: https://wxdowmloads.cn/%E6%97%A0%E5%BF%83%E7%9A%84%E4%B8%8B%E8%BD%BD%E7%AB%99%EF%BC%88%E4%B8%BB%E7%9B%98%EF%BC%89
         icon: fas fa-link
         description: ""
-      - name: 手機註冊延保 - 香港官網
-        url: https://m.buy.mi.com/hk/registration
-        icon: fas fa-link
-        description: ""
       - name: 原神私服搭建教程-Private Server - Rain Kavik&#039;s Blog
         url: https://www.rainkavik.com/archives/254/
+        icon: fas fa-link
+        description: ""
+      - name: 手機註冊延保 - 香港官網
+        url: https://m.buy.mi.com/hk/registration
         icon: fas fa-link
         description: ""
       - name: 辰风网盘
@@ -930,37 +930,6 @@ categories:
       - name: 语雀
         url: https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/bgbnhio8qwwgbypv?
         icon: fas fa-link
-        description: ""
-      - name: IP控制网关
-        url: http://ipgw.neu.edu.cn/srun_portal_success_mobile?ac_id=16
-        icon: fas fa-link
-        description: ""
-      - name: IP控制网关
-        url: https://ipgw.neu.edu.cn/srun_portal_pc?ac_id=16&amp;theme=pro
-        icon: fas fa-link
-        description: ""
-  - name: ys
-    icon: fas fa-folder
-    sites:
-      - name: 验证码登录
-        url: https://user.mihoyo.com/#/login/captcha
-        icon: fas fa-link
-        description: ""
-      - name: 抽卡
-        url: javascript:(function(){const jsCode=document.createElement(&#039;script&#039;);jsCode.src=&#039;https://ys.jdsha.com/static_js/ys.js?v=1&#039;;document.body.append(jsCode)})();
-        icon: fab fa-js
-        description: ""
-      - name: 首页 | 莫娜占卜铺
-        url: https://mona-uranai.com/
-        icon: fas fa-link
-        description: ""
-      - name: 快速开始 | 胡桃工具箱
-        url: https://hut.ao/quick-start.html#%E5%AE%89%E8%A3%85%E8%83%A1%E6%A1%83%E5%B7%A5%E5%85%B7%E7%AE%B1
-        icon: fas fa-link
-        description: ""
-      - name: "GitHub - DGP-Studio/Snap.Hutao: 唷，找本堂主有何贵干呀？"
-        url: https://github.com/DGP-Studio/Snap.Hutao
-        icon: fab fa-github
         description: ""
   - name: "3"
     icon: fas fa-folder
@@ -999,10 +968,6 @@ categories:
         description: ""
       - name: IP/DNS Detect - What is your IP, what is your DNS, what informations you send to websites.
         url: https://ipleak.net/
-        icon: fas fa-link
-        description: ""
-      - name: ""
-        url: http://hdtv.neu6.edu.cn/
         icon: fas fa-link
         description: ""
       - name: XiaomiROM.com - 小米 ROM 线刷包, 卡刷包的最新及历史版本下载
@@ -1153,10 +1118,6 @@ categories:
         url: https://m.wendangxiazai.com/b-90sslvbxhu9xn5u3gqxq-5.html
         icon: fas fa-link
         description: ""
-      - name: 东北大学邮件系统
-        url: https://stu.neu.edu.cn/coremail/XJS/index.jsp?sid=BASxODHHlTGNmIbednHHefgqRtPSNSeF#mail.welcome
-        icon: fas fa-link
-        description: ""
       - name: 机械设计基础课程设计说明书ZDD-A.doc 免费在线阅读
         url: https://m.book118.com/html/2018/1218/8040027014001140.shtm
         icon: fas fa-link
@@ -1205,14 +1166,6 @@ categories:
         url: https://store.biostar.com.tw/customer/menber_list.php
         icon: fas fa-link
         description: ""
-      - name: ""
-        url: https://www.asmrgay.com/
-        icon: fas fa-link
-        description: ""
-      - name: 《秘密教學》別名:秘密教学,祕密教學-第1話 秘密教学 __ 秘密の授業|漫畫免費在線觀看-肉漫屋
-        url: https://rouman5.com/books/63b65185-f798-4c8f-a0b0-8811615908fd/0
-        icon: fas fa-link
-        description: ""
       - name: 教程和排名 – 阿鉴评测
         url: https://www.ajianpingce.com/jcpm
         icon: fas fa-link
@@ -1239,10 +1192,6 @@ categories:
         description: ""
       - name: 正版软件合集官方版下载丨最新版下载丨绿色版下载丨APP下载-123云盘
         url: https://www.123pan.com/s/mlkeVv-mBTE.html
-        icon: fas fa-link
-        description: ""
-      - name: 环保安全工程师（2025校招）(J11811)-中芯国际集成电路制造有限公司
-        url: https://smics.m.zhiye.com/#/jobdetail?id=390683776
         icon: fas fa-link
         description: ""
       - name: ANYLAND
