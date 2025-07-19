@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T01:33:10.702Z
+# 由bookmark-processor.js生成于 2025-07-19T01:36:11.899Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -244,9 +244,13 @@ categories:
         url: https://www.bilibili.com/
         icon: fas fa-link
         description: ""
-      - name: (3) YouTube
+      - name: YouTube
         url: https://www.youtube.com/
         icon: fab fa-youtube
+        description: ""
+      - name: 抖音
+        url: https://www.douyin.com/jingxuan
+        icon: fas fa-link
         description: ""
   - name: 毕业
     icon: fas fa-folder
