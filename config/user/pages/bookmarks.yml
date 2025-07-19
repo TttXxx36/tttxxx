@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-18T14:42:41.876Z
+# 由bookmark-processor.js生成于 2025-07-19T01:28:16.358Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -198,6 +198,25 @@ categories:
       - name: 主页 | 小雅的分类 Alist
         url: https://xiaoya.1123875.xyz/
         icon: fas fa-link
+        description: ""
+  - name: Steam
+    icon: fas fa-folder
+    sites:
+      - name: 欢迎来到 Steam
+        url: https://store.steampowered.com/
+        icon: fab fa-steam
+        description: ""
+      - name: 主题 • 千禧年
+        url: https://steambrew.app/themes
+        icon: fab fa-steam
+        description: ""
+      - name: Uninstalling | Steam Homebrew
+        url: https://docs.steambrew.app/users/uninstalling
+        icon: fab fa-steam
+        description: ""
+      - name: DB
+        url: https://steamdb.info/
+        icon: fab fa-steam
         description: ""
   - name: 毕业
     icon: fas fa-folder
@@ -670,21 +689,6 @@ categories:
         url: https://www.reddit.com/r/raycastapp/comments/1lk87va/raycast_for_windows_beta_is_rolling_out/?sort=new
         icon: fab fa-reddit
         description: ""
-  - name: Steam
-    icon: fas fa-folder
-    sites:
-      - name: 欢迎来到 Steam
-        url: https://store.steampowered.com/
-        icon: fab fa-steam
-        description: ""
-      - name: 主题 • 千禧年
-        url: https://steambrew.app/themes
-        icon: fab fa-steam
-        description: ""
-      - name: Uninstalling | Steam Homebrew
-        url: https://docs.steambrew.app/users/uninstalling
-        icon: fab fa-steam
-        description: ""
   - name: 书签工具栏
     icon: fas fa-folder
     sites:
@@ -763,10 +767,6 @@ categories:
       - name: CN
         url: https://www.exchange-rates.org/zh/converter/cny-uah
         icon: fas fa-link
-        description: ""
-      - name: DB
-        url: https://steamdb.info/
-        icon: fab fa-steam
         description: ""
       - name: Claw
         url: https://eu-central-1.run.claw.cloud/
