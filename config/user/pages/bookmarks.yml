@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T05:22:27.304Z
+# 由bookmark-processor.js生成于 2025-07-19T07:25:57.044Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -521,6 +521,10 @@ categories:
         url: https://rouman5.com/books/63b65185-f798-4c8f-a0b0-8811615908fd/0
         icon: fas fa-link
         description: ""
+      - name: GameWallpapers.com
+        url: https://www.gamewallpapers.com/
+        icon: fas fa-link
+        description: ""
   - name: 工具
     icon: fas fa-folder
     sites:
@@ -703,9 +707,6 @@ categories:
         url: https://bailian.console.aliyun.com/#/home
         icon: fas fa-link
         description: ""
-  - name: "1"
-    icon: fas fa-folder
-    sites:
       - name: Xbox
         url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
         icon: fas fa-link
@@ -763,6 +764,10 @@ categories:
         description: ""
       - name: Windows 软件 | 殁漂遥
         url: https://www.mpyit.com/category/pcsoft/page/4
+        icon: fas fa-link
+        description: ""
+      - name: 易破解 - 给你所需要的内容 - 最新发布 - 第2页
+        url: https://www.ypojie.com/page/2
         icon: fas fa-link
         description: ""
   - name: 书签工具栏
