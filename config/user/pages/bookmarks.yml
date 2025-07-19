@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T04:57:59.553Z
+# 由bookmark-processor.js生成于 2025-07-19T05:13:38.005Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -751,6 +751,10 @@ categories:
         description: ""
       - name: 溜发资源网-每天分享
         url: https://www.666888.best/
+        icon: fas fa-link
+        description: ""
+      - name: Angel_天使WinPE - 一个纯净、安全、优雅的PE工具
+        url: https://www.angel-pe.cn/
         icon: fas fa-link
         description: ""
   - name: 书签工具栏
