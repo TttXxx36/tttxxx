@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T05:16:42.182Z
+# 由bookmark-processor.js生成于 2025-07-19T05:22:27.304Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -23,10 +23,6 @@ categories:
         description: ""
       - name: 卡巴斯基KES企业版【2037年到期】 - 资源 - 奶昔论坛
         url: https://forum.naixi.net/thread-3657-1-1.html
-        icon: fas fa-link
-        description: ""
-      - name: OSSSR.COM
-        url: https://www.osssr.com/
         icon: fas fa-link
         description: ""
       - name: Qui
@@ -741,8 +737,16 @@ categories:
   - name: PC资源
     icon: fas fa-folder
     sites:
+      - name: 电脑软件 - 果核剥壳
+        url: https://www.ghxi.com/category/all/pcsoft
+        icon: fas fa-link
+        description: ""
       - name: Puresys纯净系统-软件下载
         url: https://www.puresys.net/
+        icon: fas fa-link
+        description: ""
+      - name: OSSSR.COM
+        url: https://www.osssr.com/
         icon: fas fa-link
         description: ""
       - name: 电脑软件 - 软件鸭
@@ -757,8 +761,8 @@ categories:
         url: https://www.angel-pe.cn/
         icon: fas fa-link
         description: ""
-      - name: 电脑软件 - 果核剥壳
-        url: https://www.ghxi.com/category/all/pcsoft
+      - name: Windows 软件 | 殁漂遥
+        url: https://www.mpyit.com/category/pcsoft/page/4
         icon: fas fa-link
         description: ""
   - name: 书签工具栏
