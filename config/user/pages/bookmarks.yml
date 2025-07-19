@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T04:44:20.749Z
+# 由bookmark-processor.js生成于 2025-07-19T04:49:42.332Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -59,10 +59,6 @@ categories:
         description: ""
       - name: PC软硬件 NGA玩家社区
         url: https://ngabbs.com/thread.php?fid=334&amp;page=2
-        icon: fas fa-link
-        description: ""
-      - name: Puresys纯净系统-软件下载
-        url: https://www.puresys.net/
         icon: fas fa-link
         description: ""
   - name: AI
@@ -741,6 +737,17 @@ categories:
       - name: Releases · lyswhut/lx-music-desktop
         url: https://github.com/lyswhut/lx-music-desktop/releases
         icon: fab fa-github
+        description: ""
+  - name: PC资源
+    icon: fas fa-folder
+    sites:
+      - name: Puresys纯净系统-软件下载
+        url: https://www.puresys.net/
+        icon: fas fa-link
+        description: ""
+      - name: 电脑软件 - 软件鸭
+        url: https://ruanjianya.net/computer-software
+        icon: fas fa-link
         description: ""
   - name: 书签工具栏
     icon: fas fa-folder
