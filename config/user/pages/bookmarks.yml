@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T04:39:00.121Z
+# 由bookmark-processor.js生成于 2025-07-19T04:43:58.797Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -59,6 +59,10 @@ categories:
         description: ""
       - name: PC软硬件 NGA玩家社区
         url: https://ngabbs.com/thread.php?fid=334&amp;page=2
+        icon: fas fa-link
+        description: ""
+      - name: Puresys纯净系统-软件下载
+        url: https://www.puresys.net/
         icon: fas fa-link
         description: ""
   - name: AI
@@ -938,24 +942,12 @@ categories:
   - name: "3"
     icon: fas fa-folder
     sites:
-      - name: omofun动漫网-专注动漫的网站-omofun.top
-        url: https://www.omofun.top/
-        icon: fas fa-link
-        description: ""
-      - name: nga
-        url: https://nga.178.com/thread.php?fid=650&amp;rand=330
-        icon: fas fa-link
-        description: ""
       - name: 大学物理活页作业答案(全套) - 豆丁网
         url: https://www.docin.com/p-1305385846.html
         icon: fas fa-link
         description: ""
       - name: JIXIADownLoad
         url: https://jixia.baidui.vip/#/help
-        icon: fas fa-link
-        description: ""
-      - name: 搜索结果 - omofun动漫网-专注动漫的网站-omofun.top
-        url: https://www.omofun.top/index.php/vod/search.html?wd=%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90
         icon: fas fa-link
         description: ""
       - name: 2022年学习党的二十大报告党政党课团课党建二十大报告全面解读课件PPT下载 - 觅知网
