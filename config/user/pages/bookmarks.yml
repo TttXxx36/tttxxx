@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T01:30:14.039Z
+# 由bookmark-processor.js生成于 2025-07-19T01:31:33.152Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -206,7 +206,7 @@ categories:
         url: https://store.steampowered.com/
         icon: fab fa-steam
         description: ""
-      - name: 主题 • 千禧年
+      - name: Steambrew
         url: https://steambrew.app/themes
         icon: fab fa-steam
         description: ""
@@ -214,7 +214,7 @@ categories:
         url: https://docs.steambrew.app/users/uninstalling
         icon: fab fa-steam
         description: ""
-      - name: DB
+      - name: SteamDB
         url: https://steamdb.info/
         icon: fab fa-steam
         description: ""
@@ -235,6 +235,13 @@ categories:
         description: ""
       - name: 设置
         url: about:preferences
+        icon: fas fa-link
+        description: ""
+  - name: Vedio
+    icon: fas fa-folder
+    sites:
+      - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+        url: https://www.bilibili.com/
         icon: fas fa-link
         description: ""
   - name: 毕业
