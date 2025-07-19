@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T01:29:32.221Z
+# 由bookmark-processor.js生成于 2025-07-19T01:29:54.365Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -227,6 +227,10 @@ categories:
         description: ""
       - name: 关于配置文件
         url: about:profiles
+        icon: fas fa-link
+        description: ""
+      - name: 附加组件管理器
+        url: about:addons
         icon: fas fa-link
         description: ""
   - name: 毕业
