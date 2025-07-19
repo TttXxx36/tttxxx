@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T04:35:05.215Z
+# 由bookmark-processor.js生成于 2025-07-19T04:39:00.121Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -55,6 +55,10 @@ categories:
         description: ""
       - name: 吾爱破解 - 52pojie.cn
         url: https://www.52pojie.cn/?ref=www.tboxn.com
+        icon: fas fa-link
+        description: ""
+      - name: PC软硬件 NGA玩家社区
+        url: https://ngabbs.com/thread.php?fid=334&amp;page=2
         icon: fas fa-link
         description: ""
   - name: AI
