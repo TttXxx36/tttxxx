@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T04:18:35.501Z
+# 由bookmark-processor.js生成于 2025-07-19T04:22:14.024Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -623,10 +623,6 @@ categories:
   - name: Study
     icon: fas fa-folder
     sites:
-      - name: Top Wallpapers - wallhaven.cc
-        url: https://wallhaven.cc/toplist?page=5
-        icon: fas fa-link
-        description: ""
       - name: neumathe | 首页
         url: http://neumathe.cn/#/index
         icon: fas fa-link
@@ -687,9 +683,6 @@ categories:
         url: https://www.lintcode.com/learn?dimension_id=164&amp;level_id=165
         icon: fas fa-link
         description: ""
-  - name: Pic
-    icon: fas fa-folder
-    sites:
       - name: Xbox
         url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
         icon: fas fa-link
@@ -717,6 +710,17 @@ categories:
       - name: Releases · lyswhut/lx-music-desktop
         url: https://github.com/lyswhut/lx-music-desktop/releases
         icon: fab fa-github
+        description: ""
+  - name: Pic
+    icon: fas fa-folder
+    sites:
+      - name: pixiv
+        url: https://www.pixiv.net/
+        icon: fas fa-link
+        description: ""
+      - name: Top Wallpapers - wallhaven.cc
+        url: https://wallhaven.cc/toplist
+        icon: fas fa-link
         description: ""
   - name: 书签工具栏
     icon: fas fa-folder
@@ -838,10 +842,6 @@ categories:
         description: ""
       - name: Md
         url: https://gamebanana.com/mods/games/8552?
-        icon: fas fa-link
-        description: ""
-      - name: pixiv
-        url: https://www.pixiv.net/
         icon: fas fa-link
         description: ""
       - name: Bf
