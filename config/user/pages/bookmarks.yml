@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-25T15:18:23.442Z
+# 由bookmark-processor.js生成于 2025-07-28T09:42:02.635Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -102,6 +102,10 @@ categories:
         description: ""
       - name: Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。
         url: https://zh.zlib.by/
+        icon: fas fa-link
+        description: ""
+      - name: Qwen
+        url: https://chat.qwen.ai/
         icon: fas fa-link
         description: ""
   - name: VPS
