@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-29T04:32:24.522Z
+# 由bookmark-processor.js生成于 2025-07-30T03:28:28.185Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -784,6 +784,10 @@ categories:
         description: ""
       - name: Web驱动 – 狼蛛官网
         url: https://www.aulacn.com/webhub
+        icon: fas fa-link
+        description: ""
+      - name: Apex Legends Superglide Trainer
+        url: https://apexmovement.tech/superglidetrainer/
         icon: fas fa-link
         description: ""
   - name: 书签工具栏
