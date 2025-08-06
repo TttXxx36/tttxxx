@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-30T03:28:28.185Z
+# 由bookmark-processor.js生成于 2025-08-06T08:44:51.685Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -719,34 +719,6 @@ categories:
         url: https://bailian.console.aliyun.com/#/home
         icon: fas fa-link
         description: ""
-      - name: Xbox
-        url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
-        icon: fas fa-link
-        description: ""
-      - name: 查看使用帐户的时间和位置
-        url: https://account.live.com/Activity?mkt=zh-CN&amp;refd=account.microsoft.com&amp;refp=security&amp;uaid=aa22a6ea346247f39e29f3f8608ac6ef
-        icon: fab fa-microsoft
-        description: ""
-      - name: FH5 线上车辆自用调教推荐
-        url: https://docs.qq.com/sheet/DRUtkS091TmlaRGRa?tab=20lz8t
-        icon: fas fa-link
-        description: ""
-      - name: 学术
-        url: https://xs.xasa.top/
-        icon: fas fa-link
-        description: ""
-      - name: CloudPanel
-        url: https://pt.kktwo.me/#/dashboard
-        icon: fas fa-link
-        description: ""
-      - name: Raycast for Windows Beta 版即将推出：r/raycastapp --- Raycast for Windows Beta 版即将推出：r/raycastapp
-        url: https://www.reddit.com/r/raycastapp/comments/1lk87va/raycast_for_windows_beta_is_rolling_out/?sort=new
-        icon: fab fa-reddit
-        description: ""
-      - name: Releases · lyswhut/lx-music-desktop
-        url: https://github.com/lyswhut/lx-music-desktop/releases
-        icon: fab fa-github
-        description: ""
   - name: PC资源
     icon: fas fa-folder
     sites:
@@ -781,6 +753,38 @@ categories:
       - name: 易破解 - 给你所需要的内容 - 最新发布 - 第2页
         url: https://www.ypojie.com/page/2
         icon: fas fa-link
+        description: ""
+      - name: mefcl - 分享纯净好资源
+        url: https://www.mefcl.com/
+        icon: fas fa-link
+        description: ""
+      - name: Xbox
+        url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
+        icon: fas fa-link
+        description: ""
+      - name: 查看使用帐户的时间和位置
+        url: https://account.live.com/Activity?mkt=zh-CN&amp;refd=account.microsoft.com&amp;refp=security&amp;uaid=aa22a6ea346247f39e29f3f8608ac6ef
+        icon: fab fa-microsoft
+        description: ""
+      - name: FH5 线上车辆自用调教推荐
+        url: https://docs.qq.com/sheet/DRUtkS091TmlaRGRa?tab=20lz8t
+        icon: fas fa-link
+        description: ""
+      - name: 学术
+        url: https://xs.xasa.top/
+        icon: fas fa-link
+        description: ""
+      - name: CloudPanel
+        url: https://pt.kktwo.me/#/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: Raycast for Windows Beta 版即将推出：r/raycastapp --- Raycast for Windows Beta 版即将推出：r/raycastapp
+        url: https://www.reddit.com/r/raycastapp/comments/1lk87va/raycast_for_windows_beta_is_rolling_out/?sort=new
+        icon: fab fa-reddit
+        description: ""
+      - name: Releases · lyswhut/lx-music-desktop
+        url: https://github.com/lyswhut/lx-music-desktop/releases
+        icon: fab fa-github
         description: ""
       - name: Web驱动 – 狼蛛官网
         url: https://www.aulacn.com/webhub
