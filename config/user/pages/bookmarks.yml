@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-08T06:21:31.452Z
+# 由bookmark-processor.js生成于 2025-10-18T14:52:05.484Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -758,6 +758,14 @@ categories:
         url: https://www.mefcl.com/
         icon: fas fa-link
         description: ""
+      - name: Raycast for Windows Beta 版即将推出：r/raycastapp --- Raycast for Windows Beta 版即将推出：r/raycastapp
+        url: https://www.reddit.com/r/raycastapp/comments/1lk87va/raycast_for_windows_beta_is_rolling_out/?sort=new
+        icon: fab fa-reddit
+        description: ""
+      - name: Releases · lyswhut/lx-music-desktop
+        url: https://github.com/lyswhut/lx-music-desktop/releases
+        icon: fab fa-github
+        description: ""
       - name: Xbox
         url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
         icon: fas fa-link
@@ -778,14 +786,6 @@ categories:
         url: https://pt.kktwo.me/#/dashboard
         icon: fas fa-link
         description: ""
-      - name: Raycast for Windows Beta 版即将推出：r/raycastapp --- Raycast for Windows Beta 版即将推出：r/raycastapp
-        url: https://www.reddit.com/r/raycastapp/comments/1lk87va/raycast_for_windows_beta_is_rolling_out/?sort=new
-        icon: fab fa-reddit
-        description: ""
-      - name: Releases · lyswhut/lx-music-desktop
-        url: https://github.com/lyswhut/lx-music-desktop/releases
-        icon: fab fa-github
-        description: ""
       - name: Web驱动 – 狼蛛官网
         url: https://www.aulacn.com/webhub
         icon: fas fa-link
@@ -796,6 +796,10 @@ categories:
         description: ""
       - name: 中核五公司
         url: https://www.umu.cn/program/16B91894/detail/?course_id=6654635&amp;session_id=48686830
+        icon: fas fa-link
+        description: ""
+      - name: Download Raycast for Windows
+        url: https://www.raycast.com/download-windows
         icon: fas fa-link
         description: ""
   - name: 书签工具栏
