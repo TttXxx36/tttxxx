@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-18T14:52:05.484Z
+# 由bookmark-processor.js生成于 2025-10-19T15:53:44.160Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -765,6 +765,10 @@ categories:
       - name: Releases · lyswhut/lx-music-desktop
         url: https://github.com/lyswhut/lx-music-desktop/releases
         icon: fab fa-github
+        description: ""
+      - name: 丸子君的新基地尊享版教程（看完哦❤杂鱼~❤）
+        url: https://docs.qq.com/aio/DSGdQc3htbFJjSFdO?p=DXpTjzl2kZwBjN7jlRMkRJ
+        icon: fas fa-link
         description: ""
       - name: Xbox
         url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
