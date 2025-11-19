@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-14T00:54:02.001Z
+# 由bookmark-processor.js生成于 2025-11-19T11:51:30.084Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -907,6 +907,10 @@ categories:
         description: ""
       - name: 非线性列车
         url: https://h.juij.fun/
+        icon: fas fa-link
+        description: ""
+      - name: 跨端文件
+        url: https://cloud.realme.com/owork/mapp/file/office?deviceId=B2CA3A4D99DA4F0DA1128F04A51CADE0EC7D424979CC9C511618DBFF84AC2905
         icon: fas fa-link
         description: ""
   - name: 其他书签
