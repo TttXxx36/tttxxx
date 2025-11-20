@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-19T11:51:30.084Z
+# 由bookmark-processor.js生成于 2025-11-20T15:15:24.889Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -224,6 +224,10 @@ categories:
         description: ""
       - name: Apex Legends 到 Overwatch 鼠标灵敏度转换器
         url: https://psamethodcalculator.com/zh/mouse-sensitivity-converter/apex-legends/overwatch/
+        icon: fas fa-link
+        description: ""
+      - name: 战网通行证
+        url: https://account.battle.net/overview
         icon: fas fa-link
         description: ""
   - name: Firefox
