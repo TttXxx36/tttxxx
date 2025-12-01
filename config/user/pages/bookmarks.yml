@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-20T15:15:24.889Z
+# 由bookmark-processor.js生成于 2025-12-01T06:38:16.914Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -229,6 +229,10 @@ categories:
       - name: 战网通行证
         url: https://account.battle.net/overview
         icon: fas fa-link
+        description: ""
+      - name: 安装 |蒸汽自制
+        url: https://docs.steambrew.app/users/getting-started/installation
+        icon: fab fa-steam
         description: ""
   - name: Firefox
     icon: fas fa-folder
