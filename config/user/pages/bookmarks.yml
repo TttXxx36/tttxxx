@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-01T06:38:16.914Z
+# 由bookmark-processor.js生成于 2025-12-16T12:49:55.031Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -233,6 +233,10 @@ categories:
       - name: 安装 |蒸汽自制
         url: https://docs.steambrew.app/users/getting-started/installation
         icon: fab fa-steam
+        description: ""
+      - name: OptiScaler - 跨 GPU 游戏画质增强工具 [Juij 汉化] [持续更新]
+        url: https://h.juij.fun/zh/optiscaler/
+        icon: fas fa-link
         description: ""
   - name: Firefox
     icon: fas fa-folder
