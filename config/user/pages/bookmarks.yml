@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-16T12:49:55.031Z
+# 由bookmark-processor.js生成于 2025-12-21T11:19:51.198Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -816,6 +816,10 @@ categories:
         description: ""
       - name: Download Raycast for Windows
         url: https://www.raycast.com/download-windows
+        icon: fas fa-link
+        description: ""
+      - name: 先驱王座简易战斗流程（上）【melvoridle吧】_百度贴吧
+        url: https://tieba.baidu.com/p/8176680742#
         icon: fas fa-link
         description: ""
   - name: 书签工具栏
