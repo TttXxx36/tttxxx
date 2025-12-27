@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-21T11:19:51.198Z
+# 由bookmark-processor.js生成于 2025-12-27T15:25:00.698Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -822,6 +822,10 @@ categories:
         url: https://tieba.baidu.com/p/8176680742#
         icon: fas fa-link
         description: ""
+      - name: OptiScaler - 跨 GPU 游戏画质增强工具 [Juij 汉化] [持续更新]
+        url: https://h.juij.fun/zh/optiscaler/#%E7%89%88%E6%9C%AC
+        icon: fas fa-link
+        description: ""
   - name: 书签工具栏
     icon: fas fa-folder
     sites:
@@ -911,10 +915,6 @@ categories:
         description: ""
       - name: 影视资源
         url: https://www.kdocs.cn/l/coIc2jcX4kFN
-        icon: fas fa-link
-        description: ""
-      - name: OptiScaler
-        url: https://h.juij.fun/zh/optiscaler/#%E7%89%88%E6%9C%AC
         icon: fas fa-link
         description: ""
       - name: 人事档案
