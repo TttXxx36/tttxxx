@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-01-21T04:37:32.565Z
+# 由bookmark-processor.js生成于 2026-01-25T11:27:57.899Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -829,6 +829,10 @@ categories:
       - name: PotPlayer + LAV + MadVR + XySubFilter 配置指南（2025版） | OneBlog
         url: https://sigmarising.github.io/posts/20250115-tech-potplayer-lav-madvr-xysubfilter/
         icon: fab fa-github
+        description: ""
+      - name: Server酱·Turbo版
+        url: https://sct.ftqq.com/feedback
+        icon: fas fa-link
         description: ""
   - name: 书签工具栏
     icon: fas fa-folder
