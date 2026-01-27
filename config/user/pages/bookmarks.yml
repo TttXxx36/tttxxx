@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-01-25T11:27:57.899Z
+# 由bookmark-processor.js生成于 2026-01-27T06:19:10.535Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -833,6 +833,10 @@ categories:
       - name: Server酱·Turbo版
         url: https://sct.ftqq.com/feedback
         icon: fas fa-link
+        description: ""
+      - name: Checkin · Workflow runs · TttXxx36/Rainyun-Checkin
+        url: https://github.com/TttXxx36/Rainyun-Checkin/actions/workflows/checkin.yml
+        icon: fab fa-github
         description: ""
   - name: 书签工具栏
     icon: fas fa-folder
