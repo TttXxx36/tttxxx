@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-01-28T02:21:59.632Z
+# 由bookmark-processor.js生成于 2026-01-28T02:22:35.792Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -789,6 +789,10 @@ categories:
       - name: JLC Auto Sign · Workflow runs · TttXxx36/LC-AutoSign
         url: https://github.com/TttXxx36/LC-AutoSign/actions/workflows/python-publish.yml
         icon: fab fa-github
+        description: ""
+      - name: 签到 - 嘉立创EDA开源硬件平台
+        url: https://oshwhub.com/sign_in?code=AC-d2f8eef140c64f8e9f397c9da4bc14fa
+        icon: fas fa-link
         description: ""
       - name: Xbox
         url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
