@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-01-27T06:19:10.535Z
+# 由bookmark-processor.js生成于 2026-01-28T02:21:59.632Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -782,6 +782,14 @@ categories:
         url: https://docs.qq.com/aio/DSGdQc3htbFJjSFdO?p=DXpTjzl2kZwBjN7jlRMkRJ
         icon: fas fa-link
         description: ""
+      - name: Checkin · Workflow runs · TttXxx36/Rainyun-Checkin
+        url: https://github.com/TttXxx36/Rainyun-Checkin/actions/workflows/checkin.yml
+        icon: fab fa-github
+        description: ""
+      - name: JLC Auto Sign · Workflow runs · TttXxx36/LC-AutoSign
+        url: https://github.com/TttXxx36/LC-AutoSign/actions/workflows/python-publish.yml
+        icon: fab fa-github
+        description: ""
       - name: Xbox
         url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
         icon: fas fa-link
@@ -833,10 +841,6 @@ categories:
       - name: Server酱·Turbo版
         url: https://sct.ftqq.com/feedback
         icon: fas fa-link
-        description: ""
-      - name: Checkin · Workflow runs · TttXxx36/Rainyun-Checkin
-        url: https://github.com/TttXxx36/Rainyun-Checkin/actions/workflows/checkin.yml
-        icon: fab fa-github
         description: ""
   - name: 书签工具栏
     icon: fas fa-folder
