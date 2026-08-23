@@ -1,11 +1,30 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-01-28T02:22:35.792Z
+# 由bookmark-processor.js生成于 2026-08-23T04:43:27.091Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
 title: 我的书签
 subtitle: 从浏览器导入的书签收藏
 categories:
+  - name: Mozilla Firefox
+    icon: fas fa-folder
+    sites:
+      - name: Get Help
+        url: https://support.mozilla.org/products/firefox
+        icon: fas fa-link
+        description: ""
+      - name: Customize Firefox
+        url: https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize
+        icon: fas fa-link
+        description: ""
+      - name: Get Involved
+        url: https://www.mozilla.org/contribute/
+        icon: fas fa-link
+        description: ""
+      - name: About Us
+        url: https://www.mozilla.org/about/
+        icon: fas fa-link
+        description: ""
   - name: 论坛
     icon: fas fa-folder
     sites:
@@ -108,9 +127,45 @@ categories:
         url: https://chat.qwen.ai/
         icon: fas fa-link
         description: ""
+      - name: Cancri
+        url: https://nexusvai.github.io/NexusV/chat%20AI/cancri_chat_ui_v_3.html
+        icon: fab fa-github
+        description: ""
+      - name: 第三课 · AI提问
+        url: https://zhengpai-youth-aigc.github.io/i-education-training/lesson-03.html
+        icon: fab fa-github
+        description: ""
+      - name: 1Panel
+        url: http://100.83.158.70:17784/websites/ssl
+        icon: fas fa-link
+        description: ""
+      - name: Hermes
+        url: http://100.83.158.70:8648/#/hermes/chat
+        icon: fas fa-link
+        description: ""
+      - name: 仪表盘 - Cat.ai
+        url: https://aicat.sumnece.com/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: 基础信息 - NapCat WebUI
+        url: http://127.0.0.1:6099/webui/
+        icon: fas fa-link
+        description: ""
+      - name: 订单查询 - 链动小铺
+        url: https://pay.ldxp.cn/order?keywords=2436563761@qq.com&amp;ticket=1aedf78nytxdn4njwor6o7sxkmsxy4sx
+        icon: fas fa-link
+        description: ""
+      - name: LINUX DO Credit
+        url: https://credit.linux.do/home
+        icon: fas fa-link
+        description: ""
   - name: VPS
     icon: fas fa-folder
     sites:
+      - name: xui系统状态
+        url: https://xuii.1123875.xyz/321/xui/
+        icon: fas fa-link
+        description: ""
       - name: Workers 和 Pages | 0xxxttt0@gmail.com&#039;s Account | Cloudflare
         url: https://dash.cloudflare.com/49eb5ec07fc515cc8a5cc73725792e15/workers/services/view/rough-night-8636/production/settings
         icon: fas fa-link
@@ -187,12 +242,8 @@ categories:
         url: https://test.ustc.edu.cn/
         icon: fas fa-link
         description: ""
-      - name: 用户中心 —
+      - name: 69yun用户中心 —
         url: https://69yun69.com/user
-        icon: fas fa-link
-        description: ""
-      - name: 系统状态
-        url: https://xuii.1123875.xyz/321/xui/
         icon: fas fa-link
         description: ""
       - name: 如何设置xiaoya的docker
@@ -201,6 +252,10 @@ categories:
         description: ""
       - name: 主页 | 小雅的分类 Alist
         url: https://xiaoya.1123875.xyz/
+        icon: fas fa-link
+        description: ""
+      - name: SKYLUMO加速器
+        url: https://skylumo.com/index.php#/dashboard
         icon: fas fa-link
         description: ""
   - name: Steam
@@ -782,6 +837,14 @@ categories:
         url: https://docs.qq.com/aio/DSGdQc3htbFJjSFdO?p=DXpTjzl2kZwBjN7jlRMkRJ
         icon: fas fa-link
         description: ""
+      - name: th_sjy 专注软件汉化和资源分享，Software localization, Sinicization
+        url: http://www.th-sjy.com/
+        icon: fas fa-link
+        description: ""
+      - name: 签到 - 嘉立创EDA开源硬件平台
+        url: https://oshwhub.com/sign_in?code=AC-d2f8eef140c64f8e9f397c9da4bc14fa
+        icon: fas fa-link
+        description: ""
       - name: Checkin · Workflow runs · TttXxx36/Rainyun-Checkin
         url: https://github.com/TttXxx36/Rainyun-Checkin/actions/workflows/checkin.yml
         icon: fab fa-github
@@ -789,10 +852,6 @@ categories:
       - name: JLC Auto Sign · Workflow runs · TttXxx36/LC-AutoSign
         url: https://github.com/TttXxx36/LC-AutoSign/actions/workflows/python-publish.yml
         icon: fab fa-github
-        description: ""
-      - name: 签到 - 嘉立创EDA开源硬件平台
-        url: https://oshwhub.com/sign_in?code=AC-d2f8eef140c64f8e9f397c9da4bc14fa
-        icon: fas fa-link
         description: ""
       - name: Xbox
         url: https://www.xbox.com/tr-TR/games/store/ah-love-season-2-bundle/9P5Z24Z6VTT5/0010
@@ -846,12 +905,36 @@ categories:
         url: https://sct.ftqq.com/feedback
         icon: fas fa-link
         description: ""
+      - name: ImmortalWrt
+        url: https://192.168.6.1/cgi-bin/luci/admin/network/wireless
+        icon: fas fa-link
+        description: ""
+      - name: 凭证与基础信息 - Openclaw - 开发者后台
+        url: https://open.feishu.cn/app/cli_a9729ebd88781bcb/baseinfo
+        icon: fas fa-link
+        description: ""
+      - name: 消息 - 飞书
+        url: https://ecnv70duvi1p.feishu.cn/next/messenger
+        icon: fas fa-link
+        description: ""
+      - name: SiliconCloud
+        url: https://cloud.siliconflow.cn/me/campaigns/inviter
+        icon: fas fa-link
+        description: ""
+      - name: St站
+        url: https://www.iflow.work/
+        icon: fas fa-link
+        description: ""
   - name: 书签工具栏
     icon: fas fa-folder
     sites:
       - name: G
         url: https://myaccount.google.com/?utm_source=sign_in_no_continue&amp;pli=1&amp;nlr=1
         icon: fab fa-google
+        description: ""
+      - name: T
+        url: https://www.twitch.tv/directory
+        icon: fab fa-twitch
         description: ""
       - name: 测
         url: http://test.ustc.edu.cn/
@@ -865,20 +948,16 @@ categories:
         url: https://twitter.com/explore
         icon: fab fa-twitter
         description: ""
-      - name: T
-        url: https://www.twitch.tv/directory
-        icon: fab fa-twitch
-        description: ""
       - name: "3"
         url: https://bbs.3dmgame.com/thread-6371115-1-1.html
         icon: fas fa-link
         description: ""
-      - name: A
-        url: https://www.amd.com/zh-hans/support/graphics/amd-radeon-rx-6000-series/amd-radeon-rx-6700-series/amd-radeon-rx-6750-gre-12gb
-        icon: fas fa-link
-        description: ""
       - name: C
         url: https://www.chiphell.com/
+        icon: fas fa-link
+        description: ""
+      - name: Ds
+        url: https://chat.deepseek.com/a/chat/s/a952802e-129c-4e3a-9afb-b6d92ea03e3f
         icon: fas fa-link
         description: ""
       - name: Ki
@@ -887,10 +966,6 @@ categories:
         description: ""
       - name: 千问
         url: https://tongyi.aliyun.com/qianwen/
-        icon: fas fa-link
-        description: ""
-      - name: St站
-        url: https://www.iflow.work/
         icon: fas fa-link
         description: ""
       - name: mhw
@@ -909,10 +984,6 @@ categories:
         url: https://www.jianguoyun.com/#/
         icon: fas fa-link
         description: ""
-      - name: Ds
-        url: https://chat.deepseek.com/a/chat/s/a952802e-129c-4e3a-9afb-b6d92ea03e3f
-        icon: fas fa-link
-        description: ""
       - name: CN
         url: https://www.exchange-rates.org/zh/converter/cny-uah
         icon: fas fa-link
@@ -921,12 +992,12 @@ categories:
         url: https://eu-central-1.run.claw.cloud/
         icon: fas fa-link
         description: ""
-      - name: AL
-        url: https://apdgdpbr.eu-central-1.clawcloudrun.com/
-        icon: fas fa-link
-        description: ""
       - name: Folo
         url: https://app.follow.is/timeline/view-0/54846819419389961/pending
+        icon: fas fa-link
+        description: ""
+      - name: 挂刀行情
+        url: https://csqaq.com/exchange
         icon: fas fa-link
         description: ""
       - name: AIPAN
@@ -937,16 +1008,8 @@ categories:
         url: https://www.kdocs.cn/l/coIc2jcX4kFN
         icon: fas fa-link
         description: ""
-      - name: 人事档案
-        url: https://61.190.31.165:8138/business/service/person/archiveinto.html?aab301=340100000000&amp;aab302=%E5%90%88%E8%82%A5%E5%B8%82&amp;aec700=340104001&amp;aec701=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA%E4%BA%BA%E6%89%8D%E7%BB%BC%E5%90%88%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83
-        icon: fas fa-link
-        description: ""
       - name: 非线性列车
         url: https://h.juij.fun/
-        icon: fas fa-link
-        description: ""
-      - name: 跨端文件
-        url: https://cloud.realme.com/owork/mapp/file/office?deviceId=B2CA3A4D99DA4F0DA1128F04A51CADE0EC7D424979CC9C511618DBFF84AC2905
         icon: fas fa-link
         description: ""
       - name: 30aitool
@@ -955,6 +1018,10 @@ categories:
         description: ""
       - name: mod.io
         url: https://mod.io/g/baldursgate3
+        icon: fas fa-link
+        description: ""
+      - name: 人事档案
+        url: https://61.190.31.165:8138/business/service/person/archiveinto.html?aab301=340100000000&amp;aab302=%E5%90%88%E8%82%A5%E5%B8%82&amp;aec700=340104001&amp;aec701=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA%E4%BA%BA%E6%89%8D%E7%BB%BC%E5%90%88%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83
         icon: fas fa-link
         description: ""
   - name: 其他书签
@@ -1018,6 +1085,544 @@ categories:
         description: ""
       - name: 手把手教你白嫖微软Azure学生免费服务器及配置教程（IPv4+IPv6）_azure ipv6-CSDN博客
         url: https://blog.csdn.net/qq_33177599/article/details/132333921
+        icon: fas fa-link
+        description: ""
+  - name: saved-2026-05-09T12:12:10.148Z
+    icon: fas fa-folder
+    sites:
+      - name: 【博德之门3】战斗包爽的MOD整合包！_游戏热门视频
+        url: https://www.bilibili.com/video/BV1YroZBfEd7/?vd_source=bfd84247105d9d972e72ec09f3601586
+        icon: fas fa-link
+        description: ""
+      - name: 怪物猎人：世界模组 - Nexus 模组
+        url: https://www.nexusmods.com/games/monsterhunterworld/mods?page=3
+        icon: fas fa-link
+        description: ""
+      - name: Bilingual Dialogues with Companion Approval Reaction Hints at Baldur&#039;s Gate 3 Nexus - Mods and community
+        url: https://www.nexusmods.com/baldursgate3/mods/2582?tab=files&amp;file_id=114454
+        icon: fas fa-link
+        description: ""
+      - name: xx&#039;s New Female Head Preset for Human-Drow-Elf-HalfElf-Tiefling at Baldur&#039;s Gate 3 Nexus - Mods and community
+        url: https://www.nexusmods.com/baldursgate3/mods/3024
+        icon: fas fa-link
+        description: ""
+      - name: 在博德之门3 Nexus - Mod和社区修复了Vemperen的其他头颅
+        url: https://www.nexusmods.com/baldursgate3/mods/2226?tab=files
+        icon: fas fa-link
+        description: ""
+      - name: dlss模型预设 - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=dlss%E6%A8%A1%E5%9E%8B%E9%A2%84%E8%AE%BE
+        icon: fas fa-link
+        description: ""
+      - name: 一键宏 | BetterGI·更好的原神
+        url: https://www.bettergi.com/feats/macro/onem.html
+        icon: fas fa-link
+        description: ""
+      - name: 如果行不通，则尝试重新安装NVIDIA App并重启电脑 - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=%E5%A6%82%E6%9E%9C%E8%A1%8C%E4%B8%8D%E9%80%9A%EF%BC%8C%E5%88%99%E5%B0%9D%E8%AF%95%E9%87%8D%E6%96%B0%E5%AE%89%E8%A3%85NVIDIA+App%E5%B9%B6%E9%87%8D%E5%90%AF%E7%94%B5%E8%84%91
+        icon: fas fa-link
+        description: ""
+      - name: 英伟达app更新打开异常出现问题重启APP或重启电脑_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1UvruByEq2
+        icon: fas fa-link
+        description: ""
+      - name: DLSS4.5各预设终极答案！网游、射击游戏到底开不开？_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1cTfDBoETs/
+        icon: fas fa-link
+        description: ""
+      - name: ROG 幻14Air 2026深度评测：它还在进化！无可争议的最强14寸性能本！【嗨我是熊猫】_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1sb9aBwEtU/
+        icon: fas fa-link
+        description: ""
+      - name: xuexinwang - 搜索
+        url: https://cn.bing.com/search?q=xuexinwang
+        icon: fas fa-link
+        description: ""
+      - name: 中国高等教育学生信息网（学信网）
+        url: https://www.chsi.com.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 查看个人信息_学信网
+        url: https://account.chsi.com.cn/account/account!show.action
+        icon: fas fa-link
+        description: ""
+      - name: 学历查询_中国高等教育学生信息网（学信网）
+        url: https://www.chsi.com.cn/xlcx/index.jsp
+        icon: fas fa-link
+        description: ""
+      - name: 中国高等教育学位在线验证报告
+        url: https://www.chsi.com.cn/xlcx/bg.do?vcode=X752XY6761QXJP3S&amp;trnd=88343860095592625085239972437618&amp;srcid=archive
+        icon: fas fa-link
+        description: ""
+      - name: 教育部学历证书电子注册备案表_中国高等教育学生信息网（学信网）
+        url: https://www.chsi.com.cn/xlcx/bg.do?vcode=AH8QQ2VRY3KGRLUL&amp;trnd=06348083335336283227237184557079&amp;srcid=archive
+        icon: fas fa-link
+        description: ""
+      - name: Top Wallpapers - wallhaven.cc
+        url: https://wallhaven.cc/search?categories=110&amp;purity=100&amp;topRange=3M&amp;sorting=toplist&amp;order=desc&amp;page=3
+        icon: fas fa-link
+        description: ""
+      - name: women outdoors, hair blowing in the wind, long hair, JuBoT, anime girls, smoking, sunset, orange clouds, clouds, building, birds, candles, black jackets, rooftops, flowers, ultrawide, sky, pointy ears, ear piercing | 10344x4760 Wallpaper - wallhaven.cc
+        url: https://wallhaven.cc/w/xe761z
+        icon: fas fa-link
+        description: ""
+      - name: Fangpeii, women, looking away, standing, digital art, artwork, illustration, digital painting, clouds, Moon, birds, animals, sky, stars, outdoors, ultrawide, crescent moon, wings | 3000x1743 Wallpaper - wallhaven.cc
+        url: https://wallhaven.cc/w/d8e373
+        icon: fas fa-link
+        description: ""
+      - name: 伊苏8高清材质包 - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=%E4%BC%8A%E8%8B%8F8%E9%AB%98%E6%B8%85%E6%9D%90%E8%B4%A8%E5%8C%85
+        icon: fas fa-link
+        description: ""
+      - name: 【伊苏8】帧数相关事项+滤镜分享_游戏热门视频
+        url: https://www.bilibili.com/video/BV1tCdmB9E76/
+        icon: fas fa-link
+        description: ""
+      - name: 使用soft988极速下载游戏 - soft988.COM
+        url: https://patch.youxi9527.com:4433/down/267931.html
+        icon: fas fa-link
+        description: ""
+      - name: 异环XESS插帧mod让10 20 30卡开启插帧！异环optiscaler使用教程_哔哩哔哩bilibili_演示
+        url: https://www.bilibili.com/video/BV1AHoUBQE79
+        icon: fas fa-link
+        description: ""
+      - name: 4个方法让老显卡开帧生成帧数翻倍，超全方法教程让你老显卡再战几年！_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1Ma5izMEYQ/
+        icon: fas fa-link
+        description: ""
+      - name: 14650hx核显什么水平 - 搜索
+        url: https://cn.bing.com/search?q=14650hx%e6%a0%b8%e6%98%be%e4%bb%80%e4%b9%88%e6%b0%b4%e5%b9%b3&amp;qs=SC&amp;pq=14650hxhexian&amp;sk=SC1&amp;sc=10-13&amp;cvid=0444DBBD35E44454A202C58CA539C96F&amp;FORM=QBRE&amp;sp=2&amp;lq=0
+        icon: fas fa-link
+        description: ""
+      - name: i7 14650HX天梯图排名 - 芯参数
+        url: https://www.xincanshu.com/cpu/Intel_Core_i7_14650HX/tianti.html
+        icon: fas fa-link
+        description: ""
+      - name: Release v1.2.4.0 · beeradmoore/dlss-swapper
+        url: https://github.com/beeradmoore/dlss-swapper/releases/tag/v1.2.4.0
+        icon: fab fa-github
+        description: ""
+      - name: mactype - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=mactype
+        icon: fas fa-link
+        description: ""
+      - name: 完美解码设置 - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=%E5%AE%8C%E7%BE%8E%E8%A7%A3%E7%A0%81%E8%AE%BE%E7%BD%AE
+        icon: fas fa-link
+        description: ""
+      - name: 比PotPlayer更好的播放工具，就是它了！_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1buKBzpEXu
+        icon: fas fa-link
+        description: ""
+      - name: 比Steam史低更低的超史低价！已解散工作室的传奇作品直接0.5折！【杉果春季特惠超史低游戏推荐】_游戏推荐
+        url: https://www.bilibili.com/video/BV1ELZcB5EML/
+        icon: fas fa-link
+        description: ""
+      - name: 20260228版本启动明显慢于之前的版本-交流-迪奥贴吧
+        url: http://diodiy.top/?thread-151.htm
+        icon: fas fa-link
+        description: ""
+      - name: 完美解码设置中心使用说明 - 搜索
+        url: https://cn.bing.com/search?q=%E5%AE%8C%E7%BE%8E%E8%A7%A3%E7%A0%81%E8%AE%BE%E7%BD%AE%E4%B8%AD%E5%BF%83%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E
+        icon: fas fa-link
+        description: ""
+      - name: 游戏娱乐-Puresys纯净系统-软件下载
+        url: https://www.puresys.net/%e6%b8%b8%e6%88%8f%e5%a8%b1%e4%b9%90
+        icon: fas fa-link
+        description: ""
+      - name: 完美解码 v2026.03.30 | 电脑播放器影音解码包
+        url: https://www.puresys.net/4007.html
+        icon: fas fa-link
+        description: ""
+      - name: win10/win11系统优化工具 WinTune v2.8.0 中文绿色版
+        url: https://www.puresys.net/11400.html
+        icon: fas fa-link
+        description: ""
+      - name: 系统工具-Puresys纯净系统-软件下载-第4页
+        url: https://www.puresys.net/%e7%b3%bb%e7%bb%9f%e5%b7%a5%e5%85%b7/page/4
+        icon: fas fa-link
+        description: ""
+      - name: Win10/11优化工具 RyTuneX v1.7.0 中文免费版
+        url: https://www.puresys.net/9261.html
+        icon: fas fa-link
+        description: ""
+      - name: 输入法-Puresys纯净系统-软件下载
+        url: https://www.puresys.net/%e8%be%93%e5%85%a5%e6%b3%95
+        icon: fas fa-link
+        description: ""
+      - name: 清风输入法 WindInput v0.8.0-alpha
+        url: https://www.puresys.net/13217.html
+        icon: fas fa-link
+        description: ""
+      - name: "Release Winhance Release #25 v26.04.21 · memstechtips/Winhance"
+        url: https://github.com/memstechtips/Winhance/releases/tag/v26.04.21
+        icon: fab fa-github
+        description: ""
+      - name: https://www.puresys.net/12664.html
+        url: https://www.puresys.net/12664.html
+        icon: fas fa-link
+        description: ""
+      - name: 看下algs - 天才美少女卡莎 - 哔哩哔哩直播，二次元弹幕直播平台
+        url: https://live.bilibili.com/1733394496?live_from=85001&amp;spm_id_from=333.1365.live_users.item.click
+        icon: fas fa-link
+        description: ""
+      - name: 挂刀行情 | Steam市场情报站-CS饰品走势_CS2饰品指数_CSGO饰品分析_Steam挂刀行情站
+        url: https://smis.club/exchange
+        icon: fas fa-link
+        description: ""
+      - name: Steam Trading Site Tracker | Steam 挂刀行情站
+        url: https://www.iflow.work/
+        icon: fas fa-link
+        description: ""
+      - name: NotebookLM 制作 PPT 完整教程（含提示词）_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1TrDYBwEuA/
+        icon: fas fa-link
+        description: ""
+      - name: yihuan - 搜索
+        url: https://cn.bing.com/search?q=yihuan
+        icon: fas fa-link
+        description: ""
+      - name: 【26年4月最新】Gemini三分钟白嫖一年会员【保姆级教程】_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1CBQAByEA1
+        icon: fas fa-link
+        description: ""
+      - name: 2026 最强 Cloudflare 免费VPN自建！无限复活、永久可用｜全球高速节点｜秒开4K8K | 零度解说 - YouTube
+        url: https://www.youtube.com/watch?v=chcFg878840
+        icon: fab fa-youtube
+        description: ""
+      - name: 怪猎世界开荒mod - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=%E6%80%AA%E7%8C%8E%E4%B8%96%E7%95%8C%E5%BC%80%E8%8D%92mod
+        icon: fas fa-link
+        description: ""
+      - name: 【MHWI】怪猎世界2025年终超实用Mod推荐分享 萌新开荒必备功能性Mod 人物美化 显血插件 存档编辑 商店Mod 全站最细心的安装食用教学爱音都能听懂！_游戏热门视频
+        url: https://www.bilibili.com/video/BV1ZRmvBEEqM/
+        icon: fas fa-link
+        description: ""
+      - name: 装机侠林BB的个人空间-装机侠林BB个人主页-哔哩哔哩视频
+        url: https://space.bilibili.com/470231396
+        icon: fas fa-link
+        description: ""
+      - name: 百补再叠200卷！4999！RTX5060+5600+16G+512G+500W！五千价位的标准答案！_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1g7DsB1EYr/
+        icon: fas fa-link
+        description: ""
+      - name: 怪猎新手攻略 - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=%E6%80%AA%E7%8C%8E%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5
+        icon: fas fa-link
+        description: ""
+      - name: 贝壳账户
+        url: https://pay.bilibili.com/pay-v2-web/shell_index
+        icon: fas fa-link
+        description: ""
+      - name: 【MHWI】新手开荒补课向教学（2022年最新版）【战前准备篇】_游戏热门视频
+        url: https://www.bilibili.com/video/BV13V4y147vf
+        icon: fas fa-link
+        description: ""
+      - name: 【新人必看】怪物猎人世界新人入坑攻略_哔哩哔哩bilibili_怪物猎人世界_教学
+        url: https://www.bilibili.com/video/BV1vcKEe2EwW/
+        icon: fas fa-link
+        description: ""
+      - name: “来给盾斧玩家吃点全新特效！！”_游戏热门视频
+        url: https://www.bilibili.com/video/BV1y2fnBmEHj/
+        icon: fas fa-link
+        description: ""
+      - name: steam怪物猎人世界mod安装教程_哔哩哔哩bilibili_怪物猎人_演示
+        url: https://www.bilibili.com/video/BV1NTXfBMECr/
+        icon: fas fa-link
+        description: ""
+      - name: 清晰度翻倍！这款 MOD 让怪物猎人世界再无锯齿_怪物猎人世界
+        url: https://www.bilibili.com/video/BV1zXmGBHERa/
+        icon: fas fa-link
+        description: ""
+      - name: 百度网盘
+        url: https://pan.baidu.com/disk/main?from=homeSave#/index?category=all&amp;search=%E6%B8%85%E6%B3%A2
+        icon: fas fa-link
+        description: ""
+      - name: 『MHWI』怪物猎人世界冰原新版全dlc补丁，解决了与自制任务冲突和无麒麟挂坠的问题。_游戏热门视频
+        url: https://www.bilibili.com/video/BV1DqaBzWEGP/
+        icon: fas fa-link
+        description: ""
+      - name: ModBox_免费高速下载|百度网盘-分享无限制
+        url: https://pan.baidu.com/s/1pAg_4cJdudn00dF8VtDemw?pwd=r2e6&amp;_at_=1776565726493#list/path=%2F
+        icon: fas fa-link
+        description: ""
+      - name: 百度网盘
+        url: https://pan.baidu.com/disk/main?from=homeSave#/index?category=all&amp;path=%2FModBox%281%29
+        icon: fas fa-link
+        description: ""
+      - name: 创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+        url: https://member.bilibili.com/platform/upload-manager/article
+        icon: fas fa-link
+        description: ""
+      - name: 创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+        url: https://member.bilibili.com/platform/upload/video/frame
+        icon: fas fa-link
+        description: ""
+      - name: 电源选项高级设置 - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=%E7%94%B5%E6%BA%90%E9%80%89%E9%A1%B9%E9%AB%98%E7%BA%A7%E8%AE%BE%E7%BD%AE
+        icon: fas fa-link
+        description: ""
+      - name: 优化电源计划，提升电脑性能（内附软件下载）_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1i142127tz/
+        icon: fas fa-link
+        description: ""
+      - name: 关于Windows系统对AMD的负优化—异类线程调度_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1e94y1L7Ds/
+        icon: fas fa-link
+        description: ""
+      - name: AMD优化-5800h最后的优化 这些做完没必要再折腾了_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1H14y1Z7BQ/
+        icon: fas fa-link
+        description: ""
+      - name: 「2025重置版」APEX全面设置优化教程：画质、启动项、卡输入法...
+        url: https://www.bilibili.com/video/BV1bnoYYoEe7/
+        icon: fas fa-link
+        description: ""
+      - name: 笔记本神器ThrottleStop，处理器性能提升30%，拒绝过热降频_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1Ap411d7Rx
+        icon: fas fa-link
+        description: ""
+      - name: Release 7.20.3 · 2dust/v2rayN
+        url: https://github.com/2dust/v2rayN/releases/tag/7.20.3
+        icon: fab fa-github
+        description: ""
+      - name: 3050开启插针 - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=3050%E5%BC%80%E5%90%AF%E6%8F%92%E9%92%88
+        icon: fas fa-link
+        description: ""
+      - name: 【Nvidia】英伟达全系列显卡驱动推荐_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1ezKSzhE6B/
+        icon: fas fa-link
+        description: ""
+      - name: 560.94 - 搜索
+        url: https://cn.bing.com/search?q=560.94
+        icon: fas fa-link
+        description: ""
+      - name: Download NVIDIA, GeForce, Quadro, and Tesla Drivers
+        url: https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/560.94/560.94-desktop-win10-win11-64bit-international-dch-whql.exe&amp;lang=us&amp;type=GeForce
+        icon: fas fa-link
+        description: ""
+      - name: 【𝟒𝐊𝟔𝟎𝐅𝐏𝐒】超燃打戏！封神回！乙骨仙台一穿四！三特级同时领域展开！五宿之下第一人！【咒术回战第三季】_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1FoXmBNEmp/
+        icon: fas fa-link
+        description: ""
+      - name: iP地址查询--手机号码查询归属地 | 邮政编码查询 | iP地址归属地查询 | 身份证号码验证在线查询网
+        url: https://www.ip138.com/
+        icon: fas fa-link
+        description: ""
+      - name: OpenWRT从入门到精通第二课：配置IPv6以及远程访问_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1ET421a7vQ
+        icon: fas fa-link
+        description: ""
+      - name: IPv6 测试
+        url: https://www.test-ipv6.com/index.html.zh_CN
+        icon: fas fa-link
+        description: ""
+      - name: java - 搜索
+        url: https://www.bing.com/search?q=java&amp;rdr=1&amp;rdrig=76C10D9F4E8B437FA3D7FAB30ACC71CE
+        icon: fab fa-java
+        description: ""
+      - name: Java Downloads | Oracle
+        url: https://www.oracle.com/java/technologies/downloads/#jdk26-windows
+        icon: fab fa-java
+        description: ""
+      - name: Download Java
+        url: https://www.java.com/zh-CN/download/
+        icon: fab fa-java
+        description: ""
+      - name: 安全生产法 - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95
+        icon: fas fa-link
+        description: ""
+      - name: 等等去上学投稿视频-等等去上学视频分享-哔哩哔哩视频
+        url: https://space.bilibili.com/383735024/upload/video
+        icon: fas fa-link
+        description: ""
+      - name: 上海老洋房里的粤点任点任点任食，190元/位畅享点心自由_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1tsZLBeEtp
+        icon: fas fa-link
+        description: ""
+      - name: 天剑PLUS教程 - 飞书云文档
+        url: https://gcnab8gcmxnl.feishu.cn/wiki/G97XwHDmEiQ5vhkuSQscyJB4nvg
+        icon: fas fa-link
+        description: ""
+      - name: DLSS Swapper - DLSS 管理程序 [Juij 汉化] [持续更新]
+        url: https://h.juij.fun/zh/dlss-swapper/
+        icon: fas fa-link
+        description: ""
+      - name: DLSS Swapper - 搜索
+        url: https://cn.bing.com/search?q=DLSS+Swapper
+        icon: fas fa-link
+        description: ""
+      - name: DLSS Swapper - DLSS Swapper Download
+        url: https://dlss-swapper.com/#download
+        icon: fas fa-link
+        description: ""
+      - name: NVIDIA Profile Inspector「NPI/NVPI」 - NVIDIA 配置修改 [Juij 汉化] [持续更新]
+        url: https://h.juij.fun/zh/nvidia-profile-inspector/
+        icon: fas fa-link
+        description: ""
+      - name: NVIDIA Profile Inspector - 搜索
+        url: https://cn.bing.com/search?q=NVIDIA+Profile+Inspector
+        icon: fas fa-link
+        description: ""
+      - name: NVIDIA Profile Inspector 实用指南：解锁隐藏设置，彻底优化游戏性能-CSDN博客
+        url: https://blog.csdn.net/gitblog_00875/article/details/160161569
+        icon: fas fa-link
+        description: ""
+      - name: 发行版 v1.2.4.0 · beeradmoore/dlss-swapper
+        url: https://github.com/beeradmoore/dlss-swapper/releases/tag/v1.2.4.0
+        icon: fab fa-github
+        description: ""
+      - name: Releases · Orbmu2k/nvidiaProfileInspector
+        url: https://github.com/Orbmu2k/nvidiaProfileInspector/releases
+        icon: fab fa-github
+        description: ""
+      - name: Nvidia Profile Inspector Download – Latest Version
+        url: https://profileinspector.org/download/
+        icon: fas fa-link
+        description: ""
+      - name: 千问-Qwen最新模型体验-通义千问官网
+        url: https://www.qianwen.com/chat/7ff06cd682f049aa9fc6b4d746b2032f
+        icon: fas fa-link
+        description: ""
+      - name: Account Suspension Appeal for Google Account - 豆包
+        url: https://www.doubao.com/chat/38421857198532354
+        icon: fas fa-link
+        description: ""
+      - name: hse管理体系 - 搜索结果 - 哔哩哔哩
+        url: https://www.bilibili.com/?page=SearchResults&amp;keyword=hse%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB
+        icon: fas fa-link
+        description: ""
+      - name: EHS面试_如何在EHS会议上汇报工作_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV145HZzyEBg
+        icon: fas fa-link
+        description: ""
+      - name: EHS面试_如何开展隐患排查_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1ku8WzbE8T/
+        icon: fas fa-link
+        description: ""
+      - name: 风险管控_危险源的定义（第一期）_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1kJ2ZBmEmb
+        icon: fas fa-link
+        description: ""
+      - name: Steam Trading Site Tracker | Steam 挂刀行情站
+        url: https://www.iflow.work/?page_num=1&amp;platforms=buff-igxe-uuyp-eco-c5&amp;games=dota2&amp;sort_by=buy&amp;min_price=1&amp;max_price=5000&amp;min_volume=2&amp;max_latency=0&amp;price_mode=buy
+        icon: fas fa-link
+        description: ""
+      - name: LINUX DO
+        url: https://linux.do/latest
+        icon: fas fa-link
+        description: ""
+  - name: saved-2026-05-09T12:11:18.409Z
+    icon: fas fa-folder
+    sites:
+      - name: 附加组件管理器
+        url: about:addons
+        icon: fas fa-link
+        description: ""
+      - name: Kimi Code 概览 | Kimi Code 文档
+        url: https://www.kimi.com/code/docs/
+        icon: fas fa-link
+        description: ""
+      - name: Kimi 价格 | 套餐与订阅方案
+        url: https://www.kimi.com/membership/pricing?from=kfc_docs_overview&amp;track_id=cd0815e6-e90b-4ab8-949e-117ca6d142bd
+        icon: fas fa-link
+        description: ""
+      - name: Kimi API 开放平台
+        url: https://platform.moonshot.cn/console/account
+        icon: fas fa-link
+        description: ""
+      - name: Kimi vs MiniMax 对比 2026 — 哪个更好？ | OpenClaw
+        url: https://openclaw.cocoloop.cn/models/zh/2026vs-kimi-minimax.html
+        icon: fas fa-link
+        description: ""
+      - name: "- MiniMax News | MiniMax"
+        url: https://www.minimaxi.com/news/2025%E5%85%A8%E5%B9%B4%E4%B8%9A%E7%BB%A9
+        icon: fas fa-link
+        description: ""
+      - name: 接口概览 - MiniMax 开放平台文档中心
+        url: https://platform.minimaxi.com/docs/api-reference/api-overview
+        icon: fas fa-link
+        description: ""
+      - name: MiniMax M2.7 - 模型自我进化，以技术突破驱动生产力革新 | MiniMax
+        url: https://www.minimaxi.com/models/text/m27
+        icon: fas fa-link
+        description: ""
+      - name: Token Plan - MiniMax API 平台
+        url: https://platform.minimaxi.com/subscribe/token-plan
+        icon: fas fa-link
+        description: ""
+      - name: MaxHermes - 与你共同成长的 AI 智能体 | MiniMax
+        url: https://agent.minimaxi.com/max-hermes
+        icon: fas fa-link
+        description: ""
+      - name: "MiniMax Agent: 简单指令, 无限可能"
+        url: https://agent.minimaxi.com/chat?id=396035645153491
+        icon: fas fa-link
+        description: ""
+      - name: Cancri
+        url: https://nexusvai.github.io/NexusV/chat%20AI/cancri_chat_ui_v_3.html
+        icon: fab fa-github
+        description: ""
+      - name: LINUX DO Credit
+        url: https://credit.linux.do/merchant/online-paying
+        icon: fas fa-link
+        description: ""
+      - name: 真好记公益站
+        url: https://api.zhenhaoji.qzz.io/login?expired=true
+        icon: fas fa-link
+        description: ""
+      - name: 黑与白公益站
+        url: https://ai.hybgzs.com/login
+        icon: fas fa-link
+        description: ""
+      - name: 我的坚果云 - 坚果云 - 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘
+        url: https://www.jianguoyun.com/#/
+        icon: fas fa-link
+        description: ""
+      - name: OpenList 的部署与使用 | WMsheep
+        url: https://sheep-coding.github.io/post/openlist/
+        icon: fab fa-github
+        description: ""
+      - name: 飞牛教程存档——利用OpenList挂载天翼/移动等网盘_网络存储_什么值得买
+        url: https://post.smzdm.com/p/aqkr8oz2/
+        icon: fas fa-link
+        description: ""
+      - name: OpenList + WebDAV：打造万能的 NAS 播放网关
+        url: https://onlineplayer.app/zh/blog/openlist-webdav-nas-guide-zh
+        icon: fas fa-link
+        description: ""
+      - name: (8 封私信 / 2 条消息) 免费开源神器OpenList，把阿里云/百度/夸克等网盘挂载为本地硬盘！搭配RaiDrive，全网网盘秒变本地F盘！ - 知乎
+        url: https://zhuanlan.zhihu.com/p/1940841097459929409
+        icon: fas fa-link
+        description: ""
+      - name: "ctnkyaumt/OmenMon: Monitor temperature, control fan speeds, backlight color and more using WMI BIOS and the Embedded Controller. Lightweight, runs in the background with minimal footprint. Has a command-line mode too."
+        url: https://github.com/ctnkyaumt/OmenMon
+        icon: fab fa-github
+        description: ""
+      - name: "有没有就单控制风扇的软件？其次请支持暗影MAX · Issue #24 · breadeding/OmenSuperHub"
+        url: https://github.com/breadeding/OmenSuperHub/issues/24
+        icon: fab fa-github
+        description: ""
+      - name: 发行版 0.61.1 Garbage Fix · OmenMon/OmenMon
+        url: https://github.com/OmenMon/OmenMon/releases/tag/0.61.1
+        icon: fab fa-github
+        description: ""
+      - name: 发行版 v2025.917.81428.杂鱼 · qiin2333/Sunshine-Foundation
+        url: https://github.com/qiin2333/Sunshine-Foundation/releases/tag/v2025.917.81428.%E6%9D%82%E9%B1%BC
+        icon: fab fa-github
+        description: ""
+      - name: 【自荐】WordCursor，在word中实现cursor补全功能 - 发现频道 - 小众软件官方论坛
+        url: https://meta.appinn.net/t/topic/71253
+        icon: fas fa-link
+        description: ""
+      - name: 办的长期23元手机卡，4一年一续费靠谱不 - 搞七捻三 - LINUX DO
+        url: https://linux.do/t/topic/892725
+        icon: fas fa-link
+        description: ""
+      - name: 登录到 OpenList
+        url: https://openlist.1123875.xyz/@login?redirect=%2F
         icon: fas fa-link
         description: ""
   - name: 软件
