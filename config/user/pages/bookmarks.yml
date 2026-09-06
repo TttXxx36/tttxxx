@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-09-06T09:29:38.416Z
+# 由bookmark-processor.js生成于 2026-09-06T11:04:01.863Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -51,9 +51,6 @@ categories:
         url: about:preferences
         icon: fas fa-link
         description: ""
-  - name: 会话快照 2026-05-09 12-11
-    icon: fas fa-folder
-    sites:
       - name: Firefox 附加组件管理器
         url: about:addons
         icon: fas fa-link
@@ -115,7 +112,7 @@ categories:
         url: https://blog.goalonez.site/blog/Raycast%E6%8A%98%E8%85%BE%E4%B9%8B%E8%B7%AF%EF%BC%88%E5%B8%B8%E7%94%A8%E5%8A%9F%E8%83%BD%E7%AF%87%EF%BC%89.html
         icon: fas fa-link
         description: ""
-  - name: 会话快照 2026-05-09 12-12
+  - name: 社区与文章
     icon: fas fa-folder
     sites:
       - name: 20260228版本启动明显慢于之前的版本-交流-迪奥贴吧
@@ -126,15 +123,12 @@ categories:
         url: https://linux.do/latest
         icon: fas fa-link
         description: ""
-  - name: 会话快照 2026-05-09 12-11
-    icon: fas fa-folder
-    sites:
-      - name: LINUX DO 积分中心
-        url: https://credit.linux.do/merchant/online-paying
-        icon: fas fa-link
-        description: ""
       - name: 办的长期23元手机卡，4一年一续费靠谱不 - 搞七捻三 - LINUX DO
         url: https://linux.do/t/topic/892725
+        icon: fas fa-link
+        description: ""
+      - name: LINUX DO 积分中心
+        url: https://credit.linux.do/merchant/online-paying
         icon: fas fa-link
         description: ""
   - name: 对话与搜索
@@ -195,16 +189,10 @@ categories:
         url: https://cloud.siliconflow.cn/me/campaigns/inviter
         icon: fas fa-link
         description: ""
-  - name: 会话快照 2026-05-09 12-12
-    icon: fas fa-folder
-    sites:
       - name: 千问-Qwen最新模型体验-通义千问官网
         url: https://www.qianwen.com/chat/7ff06cd682f049aa9fc6b4d746b2032f
         icon: fas fa-link
         description: ""
-  - name: 会话快照 2026-05-09 12-11
-    icon: fas fa-folder
-    sites:
       - name: Kimi Code 概览 | Kimi Code 文档
         url: https://www.kimi.com/code/docs/
         icon: fas fa-link
@@ -1357,6 +1345,10 @@ categories:
         url: https://rouman5.com/books/63b65185-f798-4c8f-a0b0-8811615908fd/0
         icon: fas fa-link
         description: ""
+      - name: 栖光集
+        url: https://xrw-album.christin3.com/
+        icon: fas fa-link
+        description: ""
   - name: 图片、OCR 与压缩
     icon: fas fa-folder
     sites:
@@ -1718,31 +1710,31 @@ categories:
   - name: 书签工具栏
     icon: fas fa-folder
     sites:
-      - name: Google 账号
+      - name: G
         url: https://myaccount.google.com/?utm_source=sign_in_no_continue&amp;pli=1&amp;nlr=1
         icon: fab fa-google
         description: ""
-      - name: Twitch 直播
+      - name: T
         url: https://www.twitch.tv/directory
         icon: fab fa-twitch
         description: ""
-      - name: 中科大测速
+      - name: 测速
         url: http://test.ustc.edu.cn/
         icon: fas fa-link
         description: ""
-      - name: xn--4gq62f52gdss.click 入口
+      - name: 一元
         url: https://xn--4gq62f52gdss.click/#/knowledge
         icon: fas fa-link
         description: ""
-      - name: X 社交平台
+      - name: X
         url: https://twitter.com/explore
         icon: fab fa-twitter
         description: ""
-      - name: 3DM 游戏论坛
+      - name: 3DM
         url: https://bbs.3dmgame.com/thread-6371115-1-1.html
         icon: fas fa-link
         description: ""
-      - name: Chiphell 论坛
+      - name: Chiphell
         url: https://www.chiphell.com/
         icon: fas fa-link
         description: ""
@@ -1758,7 +1750,7 @@ categories:
         url: https://tongyi.aliyun.com/qianwen/
         icon: fas fa-link
         description: ""
-      - name: Nexus 模组
+      - name: Nexus
         url: https://www.nexusmods.com/monsterhunterworld/mods/?BH=1
         icon: fas fa-link
         description: ""
@@ -1766,7 +1758,7 @@ categories:
         url: https://www.flysheep6.com/archives/category/pc%e5%8d%95%e6%9c%ba%e5%a4%a7%e4%bd%9c
         icon: fas fa-link
         description: ""
-      - name: 金山文档
+      - name: 文档
         url: https://www.kdocs.cn/l/cofhyf5msGsi
         icon: fas fa-link
         description: ""
@@ -1774,39 +1766,39 @@ categories:
         url: https://www.jianguoyun.com/#/
         icon: fas fa-link
         description: ""
-      - name: 汇率查询
+      - name: 汇率
         url: https://www.exchange-rates.org/zh/converter/cny-uah
         icon: fas fa-link
         description: ""
-      - name: Claw 云服务
+      - name: Claw
         url: https://eu-central-1.run.claw.cloud/
         icon: fas fa-link
         description: ""
-      - name: Folo 阅读器
+      - name: Folo
         url: https://app.follow.is/timeline/view-0/54846819419389961/pending
         icon: fas fa-link
         description: ""
-      - name: Steam 挂刀行情
+      - name: 挂刀
         url: https://csqaq.com/exchange
         icon: fas fa-link
         description: ""
-      - name: AI 资源盘
+      - name: 资源盘
         url: https://www.aipan.me/
         icon: fas fa-link
         description: ""
-      - name: 金山文档
+      - name: 金山
         url: https://www.kdocs.cn/l/coIc2jcX4kFN
         icon: fas fa-link
         description: ""
-      - name: 非线性列车
+      - name: 非线性
         url: https://h.juij.fun/
         icon: fas fa-link
         description: ""
-      - name: 30 AI 工具
+      - name: AI工具
         url: https://www.30aitool.com/tools
         icon: fas fa-link
         description: ""
-      - name: mod.io 游戏模组
+      - name: mod.io
         url: https://mod.io/g/baldursgate3
         icon: fas fa-link
         description: ""
@@ -1814,7 +1806,7 @@ categories:
         url: https://61.190.31.165:8138/business/service/person/archiveinto.html?aab301=340100000000&amp;aab302=%E5%90%88%E8%82%A5%E5%B8%82&amp;aec700=340104001&amp;aec701=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA%E4%BA%BA%E6%89%8D%E7%BB%BC%E5%90%88%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83
         icon: fas fa-link
         description: ""
-      - name: 提示词优化器
+      - name: 提示词优化
         url: https://prompt.always200.com/#/basic/system
         icon: fas fa-link
         description: ""
