@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-09-07T11:08:16.951Z
+# 由bookmark-processor.js生成于 2026-09-07T11:54:57.914Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1817,6 +1817,13 @@ categories:
       - name: Pet
         url: https://codex-pet.org/zh/
         icon: fas fa-link
+        description: ""
+  - name: saved-2026-09-07T11:54:34.937Z
+    icon: fas fa-folder
+    sites:
+      - name: 技能/技能/生产力/交接/SKILL.md 在主页 · mattpocock/skills
+        url: https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff
+        icon: fab fa-github
         description: ""
   - name: 浏览器与 Firefox
     icon: fas fa-folder
