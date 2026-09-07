@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-09-06T11:04:01.863Z
+# 由bookmark-processor.js生成于 2026-09-07T11:08:16.951Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1812,6 +1812,10 @@ categories:
         description: ""
       - name: 提示词花园
         url: https://garden.always200.com/
+        icon: fas fa-link
+        description: ""
+      - name: Pet
+        url: https://codex-pet.org/zh/
         icon: fas fa-link
         description: ""
   - name: 浏览器与 Firefox
