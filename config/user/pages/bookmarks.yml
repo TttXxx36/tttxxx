@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-09-07T11:54:57.914Z
+# 由bookmark-processor.js生成于 2026-09-09T15:41:09.068Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1046,6 +1046,10 @@ categories:
         description: ""
       - name: Steam Trading Site Tracker | Steam 挂刀行情站
         url: https://www.iflow.work/?page_num=1&amp;platforms=buff-igxe-uuyp-eco-c5&amp;games=dota2&amp;sort_by=buy&amp;min_price=1&amp;max_price=5000&amp;min_volume=2&amp;max_latency=0&amp;price_mode=buy
+        icon: fas fa-link
+        description: ""
+      - name: Wuwa 在 Wuthering Waves Nexus 的配置 - 模组与社区
+        url: https://www.nexusmods.com/wutheringwaves/mods/17?tab=files
         icon: fas fa-link
         description: ""
   - name: 校园系统
