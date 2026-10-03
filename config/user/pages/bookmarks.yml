@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-09-09T15:41:09.068Z
+# 由bookmark-processor.js生成于 2026-10-03T15:32:39.573Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1820,6 +1820,10 @@ categories:
         description: ""
       - name: Pet
         url: https://codex-pet.org/zh/
+        icon: fas fa-link
+        description: ""
+      - name: MiniMax
+        url: https://platform.minimax.cn/console/plan
         icon: fas fa-link
         description: ""
   - name: saved-2026-09-07T11:54:34.937Z
