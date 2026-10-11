@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-10-03T15:32:39.573Z
+# 由bookmark-processor.js生成于 2026-10-11T02:33:19.925Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1824,6 +1824,10 @@ categories:
         description: ""
       - name: MiniMax
         url: https://platform.minimax.cn/console/plan
+        icon: fas fa-link
+        description: ""
+      - name: API定价
+        url: https://real-api-pricing.vercel.app/#lang=zh&amp;view=price&amp;board=arena_agent_mode&amp;sel=glm_coding_lite_cn_new_peak%3A%3Aglm-5.3&amp;sel=glm_coding_lite_cn_new_mid%3A%3Aglm-5.3&amp;sel=glm_coding_lite_cn_new_offpeak%3A%3Aglm-5.3&amp;sel=glm_coding_lite_cn_old_peak%3A%3Aglm-5.3&amp;sel=glm_coding_lite_cn_old_mid%3A%3Aglm-5.3&amp;sel=glm_coding_lite_cn_old_offpeak%3A%3Aglm-5.3&amp;sel=glm_coding_pro_cn_new_peak%3A%3Aglm-5.3&amp;sel=glm_coding_pro_cn_new_mid%3A%3Aglm-5.3&amp;sel=glm_coding_pro_cn_new_offpeak%3A%3Aglm-5.3&amp;sel=glm_coding_pro_cn_old_peak%3A%3Aglm-5.3&amp;sel=glm_coding_pro_cn_old_mid%3A%3Aglm-5.3&amp;sel=glm_coding_pro_cn_old_offpeak%3A%3Aglm-5.3&amp;sel=glm_coding_max_cn_new_peak%3A%3Aglm-5.3&amp;sel=glm_coding_max_cn_new_mid%3A%3Aglm-5.3&amp;sel=glm_coding_max_cn_new_offpeak%3A%3Aglm-5.3&amp;sel=glm_coding_max_cn_old_peak%3A%3Aglm-5.3&amp;sel=glm_coding_max_cn_old_mid%3A%3Aglm-5.3&amp;sel=glm_coding_max_cn_old_offpeak%3A%3Aglm-5.3&amp;sel=opencode_go%3A%3Aglm-5.3&amp;sel=command_code_goat%3A%3Aglm-5.3&amp;sel=ollama_pro%3A%3Aglm-5.3&amp;sel=ollama_max%3A%3Aglm-5.3&amp;sel=droid_max%3A%3Aglm-5.3&amp;sel=opencode_go%3A%3Adeepseek-v4.1-flash&amp;sel=command_code_goat%3A%3Adeepseek-v4.1-flash&amp;sel=ollama_pro%3A%3Adeepseek-v4.1-flash&amp;sel=ollama_max%3A%3Adeepseek-v4.1-flash&amp;sel=droid_max%3A%3Adeepseek-v4.1-flash&amp;sel=deepseek_v41_flash_offpeak%3A%3Adeepseek-v4.1-flash&amp;sel=deepseek_v41_flash_peak%3A%3Adeepseek-v4.1-flash&amp;sel=command_code_goat%3A%3Adeepseek-v4.1-flash-fast&amp;sel=command_code_goat%3A%3Adeepseek-v4-flash-fast&amp;sel=opencode_go%3A%3Adeepseek-v4-flash&amp;sel=command_code_goat%3A%3Adeepseek-v4-flash&amp;sel=ollama_pro%3A%3Adeepseek-v4-flash&amp;sel=ollama_max%3A%3Adeepseek-v4-flash&amp;sel=deepseek_v4_flash_offpeak%3A%3Adeepseek-v4-flash&amp;sel=deepseek_v4_flash_peak%3A%3Adeepseek-v4-flash&amp;vendors=DeepSeek&amp;channels=Ollama&amp;channels=OpenCode&amp;channels=StepFun&amp;channels=DeepSeek
         icon: fas fa-link
         description: ""
   - name: saved-2026-09-07T11:54:34.937Z
