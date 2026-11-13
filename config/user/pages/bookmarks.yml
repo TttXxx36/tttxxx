@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-10-11T14:36:35.167Z
+# 由bookmark-processor.js生成于 2026-11-13T11:23:24.410Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -299,6 +299,10 @@ categories:
         description: ""
       - name: liWAN LAB
         url: https://metapi.lilililwan.xyz/dashboard/overview
+        icon: fas fa-link
+        description: ""
+      - name: 快速开始 (Windows) | ego(lite) Docs
+        url: https://lite.ego.app/document/zh/docs/windows/quick-start
         icon: fas fa-link
         description: ""
   - name: 电子书与资料
