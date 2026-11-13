@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-11-13T11:23:24.410Z
+# 由bookmark-processor.js生成于 2026-11-13T13:21:40.876Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1717,6 +1717,10 @@ categories:
     sites:
       - name: 真好记公益站
         url: https://api.zhenhaoji.qzz.io/login?expired=true
+        icon: fas fa-link
+        description: ""
+      - name: 主页 - X云儿
+        url: https://yun.xxzomni.top:2083/
         icon: fas fa-link
         description: ""
   - name: 书签工具栏
